@@ -14,7 +14,7 @@
             "last_commit": "2024-08-14T08:58:20Z",
             "owner": "developit",
             "repo": "mitt",
-            "stars": 11900
+            "stars": 11899
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-13T00:34:02Z",
             "owner": "pmndrs",
             "repo": "zustand",
-            "stars": 58555
+            "stars": 58561
           }
         },
         {
@@ -406,7 +406,7 @@
             "last_commit": "2026-06-30T11:46:54Z",
             "owner": "iamkun",
             "repo": "dayjs",
-            "stars": 48669
+            "stars": 48667
           }
         },
         {
@@ -440,7 +440,7 @@
             "last_commit": "2024-02-11T12:23:37Z",
             "owner": "angus-c",
             "repo": "just",
-            "stars": 6204
+            "stars": 6203
           }
         },
         {
@@ -454,7 +454,7 @@
             "last_commit": "2026-08-12T20:09:05Z",
             "owner": "remeda",
             "repo": "remeda",
-            "stars": 5412
+            "stars": 5413
           }
         },
         {
@@ -465,7 +465,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-05T17:46:49Z",
+            "last_commit": "2026-08-13T13:58:08Z",
             "owner": "selfrefactor",
             "repo": "rambda",
             "stars": 1755
@@ -578,7 +578,7 @@
             "last_commit": "2026-08-10T20:13:57Z",
             "owner": "ai",
             "repo": "nanoid",
-            "stars": 26929
+            "stars": 26927
           }
         },
         {
@@ -886,7 +886,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:16:03.124Z",
+    "last_updated": "2026-08-13T19:31:27.216Z",
     "original_repository": "thoughtspile/awesome-tiny-js",
     "original_repository_sha": "f49d74e245824eb1194a01636b8dd3b0904d347c",
     "enhanced_repository": "enhansome/enhansome-tiny-js",
