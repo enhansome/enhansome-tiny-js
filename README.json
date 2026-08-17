@@ -14,7 +14,7 @@
             "last_commit": "2024-08-14T08:58:20Z",
             "owner": "developit",
             "repo": "mitt",
-            "stars": 11899
+            "stars": 11900
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-22T18:00:05Z",
             "owner": "ai",
             "repo": "nanoevents",
-            "stars": 1631
+            "stars": 1633
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-13T00:34:02Z",
             "owner": "pmndrs",
             "repo": "zustand",
-            "stars": 58574
+            "stars": 58577
           }
         },
         {
@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T20:49:22Z",
+            "last_commit": "2026-08-17T10:47:46Z",
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7556
+            "stars": 7558
           }
         },
         {
@@ -149,10 +149,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T13:29:38Z",
+            "last_commit": "2026-08-17T12:48:14Z",
             "owner": "preactjs",
             "repo": "signals",
-            "stars": 4473
+            "stars": 4474
           }
         },
         {
@@ -310,7 +310,7 @@
             "last_commit": "2023-08-15T22:45:22Z",
             "owner": "developit",
             "repo": "redaxios",
-            "stars": 4880
+            "stars": 4883
           }
         },
         {
@@ -344,7 +344,7 @@
             "last_commit": "2026-08-14T09:54:25Z",
             "owner": "lingui",
             "repo": "js-lingui",
-            "stars": 5846
+            "stars": 5847
           }
         },
         {
@@ -403,10 +403,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T08:46:38Z",
+            "last_commit": "2026-08-17T11:50:20Z",
             "owner": "iamkun",
             "repo": "dayjs",
-            "stars": 48665
+            "stars": 48666
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2026-08-10T08:47:59Z",
             "owner": "date-fns",
             "repo": "date-fns",
-            "stars": 36625
+            "stars": 36623
           }
         }
       ],
@@ -451,10 +451,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T11:26:00Z",
+            "last_commit": "2026-08-17T14:40:08Z",
             "owner": "remeda",
             "repo": "remeda",
-            "stars": 5414
+            "stars": 5413
           }
         },
         {
@@ -482,7 +482,7 @@
             "last_commit": "2026-08-08T14:05:49Z",
             "owner": "marpple",
             "repo": "FxTS",
-            "stars": 1165
+            "stars": 1166
           }
         }
       ],
@@ -499,10 +499,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T02:05:42Z",
+            "last_commit": "2026-08-17T15:52:04Z",
             "owner": "open-circle",
             "repo": "valibot",
-            "stars": 8931
+            "stars": 8932
           }
         },
         {
@@ -886,7 +886,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T18:51:47.865Z",
+    "last_updated": "2026-08-17T19:04:52.109Z",
     "original_repository": "thoughtspile/awesome-tiny-js",
     "original_repository_sha": "f49d74e245824eb1194a01636b8dd3b0904d347c",
     "enhanced_repository": "enhansome/enhansome-tiny-js",
