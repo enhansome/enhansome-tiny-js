@@ -1,6 +1,102 @@
 {
   "items": [
     {
+      "description": "UI frameworks (libraries?) provide declarative templates, event bindings, and observable state to update the view. I've been generous and expanded the size limit for this category to 4.5 kB (if you're boring, count them as 2 libraries), but also increased the star limit to 2K.\nThe following libraries are small and cool, but note they're about 500x less popular than preact. Kudos for deconstrucing the very essence of a \"framework\":\nNow, for the openly experimental UI libraries:\nAnd if being declarative is not your thing:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hyperapp",
+          "description": "vDOM framework with pure JS syntax and immutable state,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79527893,
+            "language": "JavaScript",
+            "last_commit": "2025-03-20T01:04:38Z",
+            "owner": "hyperapp",
+            "repo": "hyperapp",
+            "stars": 19200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redom",
+          "description": "Hyperapp-style templates with imperative event listeners and updates,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66781496,
+            "language": "JavaScript",
+            "last_commit": "2025-03-10T13:37:31Z",
+            "owner": "redom",
+            "repo": "redom",
+            "stars": 3432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "van",
+          "description": "vDOM-based framework optimized for no-build setups,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 637646872,
+            "language": "JavaScript",
+            "last_commit": "2026-07-16T18:32:40Z",
+            "owner": "vanjs-org",
+            "repo": "van",
+            "stars": 4423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fre",
+          "description": "React-like library with hooks and concurrency,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142654069,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:18:29Z",
+            "owner": "frejs",
+            "repo": "fre",
+            "stars": 3765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arrowjs",
+          "description": "Tagged templates + reactive data,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 563574422,
+            "language": "TypeScript",
+            "last_commit": "2026-07-01T16:52:04Z",
+            "owner": "standardagents",
+            "repo": "arrow-js",
+            "stars": 3720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "superfine",
+          "description": "Hyperapp with state & effect hooks removed,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91805577,
+            "language": "JavaScript",
+            "last_commit": "2022-08-16T03:08:33Z",
+            "owner": "jorgebucaran",
+            "repo": "superfine",
+            "stars": 1596
+          }
+        }
+      ],
+      "title": "UI Frameworks"
+    },
+    {
       "description": "Event emitter pattern is fairly easy to implement yourself, but why bother when you have these cool tools? With an arms race to build the smallest one, the limit is 0.5 kB.",
       "items": [
         {
@@ -10,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78983309,
             "language": "TypeScript",
             "last_commit": "2024-08-14T08:58:20Z",
             "owner": "developit",
@@ -24,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68678413,
             "language": "TypeScript",
             "last_commit": "2026-07-22T18:00:05Z",
             "owner": "ai",
@@ -38,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63400051,
             "language": "TypeScript",
             "last_commit": "2019-04-22T01:33:25Z",
             "owner": "hustcc",
@@ -58,11 +157,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180328715,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T00:31:47Z",
+            "last_commit": "2026-08-19T12:38:15Z",
             "owner": "pmndrs",
             "repo": "zustand",
-            "stars": 58583
+            "stars": 58584
           }
         },
         {
@@ -72,11 +172,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304120355,
             "language": "TypeScript",
             "last_commit": "2026-08-17T10:47:46Z",
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7559
+            "stars": 7561
           }
         },
         {
@@ -86,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113351554,
             "language": "JavaScript",
             "last_commit": "2021-06-07T10:00:27Z",
             "owner": "developit",
@@ -100,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175927747,
             "language": "JavaScript",
             "last_commit": "2024-12-10T17:42:24Z",
             "owner": "storeon",
@@ -114,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 346826188,
             "language": "TypeScript",
             "last_commit": "2026-04-09T19:40:58Z",
             "owner": "teafuljs",
@@ -128,114 +232,123 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 353644602,
             "language": "TypeScript",
             "last_commit": "2026-01-29T08:05:12Z",
             "owner": "Marcisbee",
             "repo": "exome",
             "stars": 281
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "@preact/signals",
+              "description": "The OG signals from preact core, with react integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 522712696,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T12:48:14Z",
+                "owner": "preactjs",
+                "repo": "signals",
+                "stars": 4475
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hyperactiv",
+              "description": "4 functions to make objects observable and listen to changes,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115869903,
+                "language": "JavaScript",
+                "last_commit": "2026-06-21T12:11:10Z",
+                "owner": "elbywan",
+                "repo": "hyperactiv",
+                "stars": 446
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "usignal",
+              "description": "A smaller signal implementation,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 534546174,
+                "language": "JavaScript",
+                "last_commit": "2026-05-28T15:06:05Z",
+                "owner": "WebReflection",
+                "repo": "usignal",
+                "stars": 268
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flimsy",
+              "description": "Signals from Solid (it almost fit into UI frameworks category itself). Author warning: it's probably buggy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 524419194,
+                "language": "TypeScript",
+                "last_commit": "2026-07-17T21:10:40Z",
+                "owner": "fabiospampinato",
+                "repo": "flimsy",
+                "stars": 193
+              }
+            }
+          ],
+          "description": "A signal-styled state manager provides observable values (aka signals), derived values and effects.\nHonorable mention: oby could make it if it had tree-shaking, but otherwise is around 7 kB.",
+          "node_type": "group",
+          "title": "Signals"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "callbag-basics",
+              "description": "Rx-style event streams,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119371155,
+                "language": "JavaScript",
+                "last_commit": "2023-04-20T06:28:40Z",
+                "owner": "staltz",
+                "repo": "callbag-basics",
+                "stars": 1652
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flyd",
+              "description": "Rx-styled event streams,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31337555,
+                "language": "JavaScript",
+                "last_commit": "2024-02-05T20:10:57Z",
+                "owner": "paldepind",
+                "repo": "flyd",
+                "stars": 1565
+              }
+            }
+          ],
+          "description": "Another well-known state management approach is reactive programmning — operating on event streams, applying filters and transforms to end up with an observable value. Think RxJS, but tiny:",
+          "node_type": "group",
+          "title": "Reactive Programming"
         }
       ],
       "title": "State Managers"
     },
     {
-      "description": "A signal-styled state manager provides observable values (aka signals), derived values and effects.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "@preact/signals",
-          "description": "The OG signals from preact core, with react integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T12:48:14Z",
-            "owner": "preactjs",
-            "repo": "signals",
-            "stars": 4475
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hyperactiv",
-          "description": "4 functions to make objects observable and listen to changes,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-21T12:11:10Z",
-            "owner": "elbywan",
-            "repo": "hyperactiv",
-            "stars": 446
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "usignal",
-          "description": "A smaller signal implementation,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-28T15:06:05Z",
-            "owner": "WebReflection",
-            "repo": "usignal",
-            "stars": 268
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flimsy",
-          "description": "Signals from Solid (it almost fit into UI frameworks category itself). Author warning: it's probably buggy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-17T21:10:40Z",
-            "owner": "fabiospampinato",
-            "repo": "flimsy",
-            "stars": 193
-          }
-        }
-      ],
-      "title": "Signals"
-    },
-    {
-      "description": "Another well-known state management approach is reactive programmning — operating on event streams, applying filters and transforms to end up with an observable value. Think RxJS, but tiny:",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "callbag-basics",
-          "description": "Rx-style event streams,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-04-20T06:28:40Z",
-            "owner": "staltz",
-            "repo": "callbag-basics",
-            "stars": 1652
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flyd",
-          "description": "Rx-styled event streams,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-02-05T20:10:57Z",
-            "owner": "paldepind",
-            "repo": "flyd",
-            "stars": 1565
-          }
-        }
-      ],
-      "title": "Reactive Programming"
-    },
-    {
-      "description": "Do stuff on URL / history changes, with path matching and parsing:",
+      "description": "Do stuff on URL / history changes, with path matching and parsing:\nJust want to parse or match URL paths without observing them? Here you go:",
       "items": [
         {
           "node_type": "item",
@@ -244,6 +357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180418592,
             "language": "TypeScript",
             "last_commit": "2026-08-10T17:15:36Z",
             "owner": "molefrog",
@@ -258,6 +372,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138140611,
             "language": "JavaScript",
             "last_commit": "2024-01-20T17:33:27Z",
             "owner": "lukeed",
@@ -272,18 +387,64 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 379767706,
             "language": "TypeScript",
             "last_commit": "2026-07-23T11:37:41Z",
             "owner": "nanostores",
             "repo": "router",
             "stars": 326
           }
+        },
+        {
+          "node_type": "item",
+          "title": "regexparam",
+          "description": "Convert path to regexp in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 128681730,
+            "language": "JavaScript",
+            "last_commit": "2023-12-03T21:39:16Z",
+            "owner": "lukeed",
+            "repo": "regexparam",
+            "stars": 597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qss",
+          "description": "Parse querystrings in . Not sure you need it, URL API support is good.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 107940612,
+            "language": "JavaScript",
+            "last_commit": "2023-03-10T01:59:28Z",
+            "owner": "lukeed",
+            "repo": "qss",
+            "stars": 452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matchit",
+          "description": "Route parser and matcher in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109605518,
+            "language": "JavaScript",
+            "last_commit": "2021-11-03T06:37:51Z",
+            "owner": "lukeed",
+            "repo": "matchit",
+            "stars": 323
+          }
         }
       ],
       "title": "Routers and URL Utils"
     },
     {
-      "description": "API has some boilerplate associated with it: serialize & parse data, reject on non-200 response, etc. These tiny packages handle it for you:",
+      "description": "API has some boilerplate associated with it: serialize & parse data, reject on non-200 response, etc. These tiny packages handle it for you:\nIf for some reason you still need a fetch polyfill, try this one:",
       "items": [
         {
           "node_type": "item",
@@ -292,6 +453,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103435985,
             "language": "TypeScript",
             "last_commit": "2026-06-19T06:54:58Z",
             "owner": "elbywan",
@@ -306,6 +468,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145911559,
             "language": "JavaScript",
             "last_commit": "2023-08-15T22:45:22Z",
             "owner": "developit",
@@ -320,6 +483,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 234645034,
             "language": "TypeScript",
             "last_commit": "2023-10-05T02:58:31Z",
             "owner": "truework",
@@ -340,11 +504,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79252808,
             "language": "TypeScript",
             "last_commit": "2026-08-14T09:54:25Z",
             "owner": "lingui",
             "repo": "js-lingui",
-            "stars": 5848
+            "stars": 5850
           }
         },
         {
@@ -354,6 +519,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248382483,
             "language": "JavaScript",
             "last_commit": "2024-01-20T17:17:37Z",
             "owner": "lukeed",
@@ -368,6 +534,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132908162,
             "language": "TypeScript",
             "last_commit": "2024-12-10T20:29:42Z",
             "owner": "ibitcy",
@@ -382,6 +549,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 420559291,
             "language": "TypeScript",
             "last_commit": "2026-07-23T11:34:27Z",
             "owner": "nanostores",
@@ -393,7 +561,7 @@
       "title": "I18N"
     },
     {
-      "description": "Date and time manipulation in pure JS is verbose. Luckily, two of the top date libraries have sensible size:",
+      "description": "Date and time manipulation in pure JS is verbose. Luckily, two of the top date libraries have sensible size:\nAnd some more packages that only do formatting:\nNote that the built-in has decent support.",
       "items": [
         {
           "node_type": "item",
@@ -402,11 +570,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128907699,
             "language": "JavaScript",
             "last_commit": "2026-08-18T04:15:17Z",
             "owner": "iamkun",
             "repo": "dayjs",
-            "stars": 48667
+            "stars": 48666
           }
         },
         {
@@ -416,18 +585,109 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24841635,
             "language": "TypeScript",
             "last_commit": "2026-08-10T08:47:59Z",
             "owner": "date-fns",
             "repo": "date-fns",
-            "stars": 36628
+            "stars": 36631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ms",
+          "description": "Parse & format ms durations, e.g. ,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3655872,
+            "language": "TypeScript",
+            "last_commit": "2026-05-20T22:24:50Z",
+            "owner": "vercel",
+            "repo": "ms",
+            "stars": 5545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timeago.js",
+          "description": "Format dates into stuff like X minutes ago or in X hours,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61765411,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T01:08:09Z",
+            "owner": "hustcc",
+            "repo": "timeago.js",
+            "stars": 5370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tinytime",
+          "description": "Simple date / time formatter: ,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79506115,
+            "language": "JavaScript",
+            "last_commit": "2023-01-12T05:12:08Z",
+            "owner": "aweary",
+            "repo": "tinytime",
+            "stars": 1323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tinydate",
+          "description": "Date / time formatter, only supports padded numeric output (),",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89977123,
+            "language": "JavaScript",
+            "last_commit": "2024-01-20T17:52:53Z",
+            "owner": "lukeed",
+            "repo": "tinydate",
+            "stars": 1067
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fromnow",
+          "description": "More of the same,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25562629,
+            "language": "JavaScript",
+            "last_commit": "2019-07-08T19:03:15Z",
+            "owner": "lukeed",
+            "repo": "fromnow",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "time-stamp",
+          "description": "More of the same,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34895918,
+            "language": "JavaScript",
+            "last_commit": "2020-11-24T06:02:18Z",
+            "owner": "jonschlinkert",
+            "repo": "time-stamp",
+            "stars": 110
           }
         }
       ],
       "title": "Dates and Time"
     },
     {
-      "description": "Something you'd find in lodash or ramda, but smaller. Most are pretty similar and very small, with minor differences in package structure (single / package-per-helper) and tree shaking vs direct helper import.",
+      "description": "Something you'd find in lodash or ramda, but smaller. Most are pretty similar and very small, with minor differences in package structure (single / package-per-helper) and tree shaking vs direct helper import.\nHonorable mention: underscore, contains many sub-1 kB helpers. It does not tree-shake as well as the libraries above due to codebase structure.\nNote: lodash itself is not tree-shakable, but has made many attempts at modulaity with packages, imports from , and , none of which work well in practice.\nAlso note that much of the original lodash functionality comes built-in with modern ES. Prefer native versions over libraries as your browser target allows.",
       "items": [
         {
           "node_type": "item",
@@ -436,6 +696,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61969625,
             "language": "JavaScript",
             "last_commit": "2024-02-11T12:23:37Z",
             "owner": "angus-c",
@@ -450,6 +711,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132434056,
             "language": "TypeScript",
             "last_commit": "2026-08-18T06:25:03Z",
             "owner": "remeda",
@@ -464,6 +726,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79035508,
             "language": "JavaScript",
             "last_commit": "2026-08-13T13:58:08Z",
             "owner": "selfrefactor",
@@ -478,6 +741,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 411941706,
             "language": "TypeScript",
             "last_commit": "2026-08-08T14:05:49Z",
             "owner": "marpple",
@@ -498,11 +762,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 663456281,
             "language": "TypeScript",
             "last_commit": "2026-08-17T15:52:04Z",
             "owner": "open-circle",
             "repo": "valibot",
-            "stars": 8934
+            "stars": 8936
           }
         },
         {
@@ -512,6 +777,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111756715,
             "language": "TypeScript",
             "last_commit": "2024-10-01T02:42:53Z",
             "owner": "ianstormtaylor",
@@ -526,6 +792,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138644245,
             "language": "JavaScript",
             "last_commit": "2025-01-01T14:55:40Z",
             "owner": "imbrn",
@@ -540,6 +807,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258799930,
             "language": "JavaScript",
             "last_commit": "2023-01-06T04:26:32Z",
             "owner": "antonioru",
@@ -554,6 +822,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 606856825,
             "language": "JavaScript",
             "last_commit": "2026-07-08T13:04:02Z",
             "owner": "thoughtspile",
@@ -574,11 +843,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99401299,
             "language": "JavaScript",
             "last_commit": "2026-08-10T20:13:57Z",
             "owner": "ai",
             "repo": "nanoid",
-            "stars": 26937
+            "stars": 26938
           }
         },
         {
@@ -588,6 +858,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244573944,
             "language": "JavaScript",
             "last_commit": "2024-09-27T06:12:32Z",
             "owner": "lukeed",
@@ -602,6 +873,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243721767,
             "language": "JavaScript",
             "last_commit": "2024-09-27T06:13:03Z",
             "owner": "lukeed",
@@ -616,6 +888,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244595006,
             "language": "JavaScript",
             "last_commit": "2026-05-04T01:17:07Z",
             "owner": "lukeed",
@@ -636,6 +909,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18573791,
             "language": "JavaScript",
             "last_commit": "2025-12-03T08:17:42Z",
             "owner": "davidmerfield",
@@ -650,8 +924,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316474381,
             "language": "TypeScript",
-            "last_commit": "2026-05-23T00:25:16Z",
+            "last_commit": "2026-08-19T11:35:34Z",
             "owner": "omgovich",
             "repo": "colord",
             "stars": 1879
@@ -664,6 +939,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85709336,
             "language": "TypeScript",
             "last_commit": "2018-02-11T02:12:26Z",
             "owner": "cdonohue",
@@ -678,6 +954,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23218282,
             "language": "JavaScript",
             "last_commit": "2020-05-07T13:47:26Z",
             "owner": "stayradiated",
@@ -689,7 +966,7 @@
       "title": "Colors"
     },
     {
-      "description": "Touch gestures like swipe, drag, pinch or doubletap are a staple of mobile UX, but recognizing a series of touchmove / pointer events as a gesture is tricky, and testing is painful. Here are two libraries that do the heavy lifting for you:",
+      "description": "Touch gestures like swipe, drag, pinch or doubletap are a staple of mobile UX, but recognizing a series of touchmove / pointer events as a gesture is tricky, and testing is painful. Here are two libraries that do the heavy lifting for you:\nEven if you want to detect gestures yourself, juggling mouse, touch and pointer events is hard enough, and browser inconsistencies don't help. Here are two more libraries to assist with that:\nHonorable mentions: any-touch attempts a modular approach to gesture detection, but the core is around 2 kB without any gesture recognizers. rc-gesture, used in ant design system, could be the only react component on the list, but babel-runtime / corejs polyfills hard-wired into the build push the ~2.5 kB size to over 10 kB.",
       "items": [
         {
           "node_type": "item",
@@ -698,6 +975,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59704101,
             "language": "JavaScript",
             "last_commit": "2019-01-03T07:05:23Z",
             "owner": "AlloyTeam",
@@ -712,18 +990,49 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147753039,
             "language": "TypeScript",
             "last_commit": "2026-04-04T09:53:33Z",
             "owner": "sciactive",
             "repo": "tinygesture",
             "stars": 228
           }
+        },
+        {
+          "node_type": "item",
+          "title": "detect-it",
+          "description": "Detect present and primary input method (touch / mouse) and supported events,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62772291,
+            "language": "TypeScript",
+            "last_commit": "2021-05-02T04:03:45Z",
+            "owner": "rafgraph",
+            "repo": "detect-it",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pointer-tracker",
+          "description": "Unified interface for mouse, touch and pointer events,",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 152469265,
+            "language": "TypeScript",
+            "last_commit": "2024-09-24T08:30:28Z",
+            "owner": "GoogleChromeLabs",
+            "repo": "pointer-tracker",
+            "stars": 191
+          }
         }
       ],
       "title": "Touch Gestures"
     },
     {
-      "description": "Text search is important for client-side filtering and autosuggests. Naive has no sensible order on the results, and ignoring word boundaries gives unexpected matches like spa -> newSPAper. First, here are some libraries that prioritize word matches:",
+      "description": "Text search is important for client-side filtering and autosuggests. Naive has no sensible order on the results, and ignoring word boundaries gives unexpected matches like spa -> newSPAper. First, here are some libraries that prioritize word matches:\nOne way to find sensible inexact matches is stemming — converting words to a root form. Walked will match walking, etc. Here are a few Porter stemmers for English language:\nFor non-English words, I only have honorable mentions: snowball-js is 17 kB with 15 languages, lunr-languages supports 30 languages but only works with lunr, the most promising one is natural but it depends on Node.js.",
       "items": [
         {
           "node_type": "item",
@@ -732,6 +1041,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91927089,
             "language": "JavaScript",
             "last_commit": "2023-05-13T08:18:33Z",
             "owner": "kbrsh",
@@ -746,6 +1056,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39978723,
             "language": "JavaScript",
             "last_commit": "2023-05-12T13:18:33Z",
             "owner": "bvaughn",
@@ -760,6 +1071,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 497538643,
             "language": "JavaScript",
             "last_commit": "2022-07-21T21:47:04Z",
             "owner": "thesephist",
@@ -774,120 +1086,149 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71558507,
             "language": "TypeScript",
             "last_commit": "2023-03-15T07:40:24Z",
             "owner": "localvoid",
             "repo": "ndx",
             "stars": 157
           }
+        },
+        {
+          "node_type": "item",
+          "title": "stemmer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20812517,
+            "language": "JavaScript",
+            "last_commit": "2022-11-02T09:46:58Z",
+            "owner": "words",
+            "repo": "stemmer",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "porter-stemmer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1638824,
+            "language": "JavaScript",
+            "last_commit": "2020-09-30T14:07:33Z",
+            "owner": "jedp",
+            "repo": "porter-stemmer",
+            "stars": 102
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fuzzysearch",
+              "description": "One string at a time, does not compute score / rank.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31618003,
+                "language": "JavaScript",
+                "last_commit": "2023-05-31T04:51:39Z",
+                "owner": "bevacqua",
+                "repo": "fuzzysearch",
+                "stars": 2742
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fuzzy",
+              "description": "Index-free, can highlight matches.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5054664,
+                "language": "JavaScript",
+                "last_commit": "2021-12-20T07:11:22Z",
+                "owner": "mattyork",
+                "repo": "fuzzy",
+                "stars": 835
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "liquidmetal",
+              "description": "Quicksilver algorithm, prioritizes matches at start of word for command abbreviations (e.g. -> ). One string at a time.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122759,
+                "language": "JavaScript",
+                "last_commit": "2020-06-17T02:10:02Z",
+                "owner": "rmm5t",
+                "repo": "liquidmetal",
+                "stars": 293
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fuzzy-search",
+              "description": "With stateful index.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56446229,
+                "language": "JavaScript",
+                "last_commit": "2023-03-14T23:52:27Z",
+                "owner": "wouterrutgers",
+                "repo": "fuzzy-search",
+                "stars": 229
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "quick-score",
+              "description": "Another quicksilver-based lib, tweaked for long strings. Built-in list filtering and sorting, or 1.2 kB for single-string scoring.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140979808,
+                "language": "JavaScript",
+                "last_commit": "2023-01-08T15:45:37Z",
+                "owner": "fwextensions",
+                "repo": "quick-score",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fzy.js",
+              "description": "Matches one string at a time, tree-shakeable scores and match highlighting. total, or ~150 bytes for only.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156036039,
+                "language": "JavaScript",
+                "last_commit": "2024-09-24T04:40:11Z",
+                "owner": "jhawthorn",
+                "repo": "fzy.js",
+                "stars": 163
+              }
+            }
+          ],
+          "description": "Fuzzy search is another take on inexact matching — the words can be modified. First, we have libraries that only allow insertion: spacecat -> SPACECrAfT. Not perfect for general-purpose text search, but great for filename, command, or URL lookups.\nFinally, one library is specifically built for spellchecking:",
+          "node_type": "group",
+          "title": "Fuzzy search"
         }
       ],
       "title": "Text Search"
-    },
-    {
-      "description": "Fuzzy search is another take on inexact matching — the words can be modified. First, we have libraries that only allow insertion: spacecat -> SPACECrAfT. Not perfect for general-purpose text search, but great for filename, command, or URL lookups.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "fuzzysearch",
-          "description": "One string at a time, does not compute score / rank.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-05-31T04:51:39Z",
-            "owner": "bevacqua",
-            "repo": "fuzzysearch",
-            "stars": 2742
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fuzzy",
-          "description": "Index-free, can highlight matches.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-12-20T07:11:22Z",
-            "owner": "mattyork",
-            "repo": "fuzzy",
-            "stars": 835
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "liquidmetal",
-          "description": "Quicksilver algorithm, prioritizes matches at start of word for command abbreviations (e.g. -> ). One string at a time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-06-17T02:10:02Z",
-            "owner": "rmm5t",
-            "repo": "liquidmetal",
-            "stars": 293
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fuzzy-search",
-          "description": "With stateful index.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-14T23:52:27Z",
-            "owner": "wouterrutgers",
-            "repo": "fuzzy-search",
-            "stars": 229
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "quick-score",
-          "description": "Another quicksilver-based lib, tweaked for long strings. Built-in list filtering and sorting, or 1.2 kB for single-string scoring.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-08T15:45:37Z",
-            "owner": "fwextensions",
-            "repo": "quick-score",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fzy.js",
-          "description": "Matches one string at a time, tree-shakeable scores and match highlighting. total, or ~150 bytes for only.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-09-24T04:40:11Z",
-            "owner": "jhawthorn",
-            "repo": "fzy.js",
-            "stars": 163
-          }
-        }
-      ],
-      "title": "Fuzzy search"
-    },
-    {
-      "description": "Suggestions welcome! See contributing.md, or drop an issue.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "See WIP for possibly awesome libraries I have found, but not yet analyzed deeply, and incubate for awesome libraries that don't meet popularity criteria yet.\nCollected and reviewed by Vladimir Klepov in 2023.",
-      "items": [],
-      "title": "Footnotes"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:04:12.499Z",
+    "last_updated": "2026-08-19T12:54:45.338Z",
     "original_repository": "thoughtspile/awesome-tiny-js",
+    "original_repository_id": 608234505,
     "original_repository_sha": "f49d74e245824eb1194a01636b8dd3b0904d347c",
     "enhanced_repository": "enhansome/enhansome-tiny-js",
     "enhanced_repository_description": null,
