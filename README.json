@@ -162,7 +162,7 @@
             "last_commit": "2026-08-19T13:05:32Z",
             "owner": "pmndrs",
             "repo": "zustand",
-            "stars": 58585
+            "stars": 58589
           }
         },
         {
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 304120355,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T10:47:46Z",
+            "last_commit": "2026-08-20T18:33:11Z",
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7561
+            "stars": 7562
           }
         },
         {
@@ -254,7 +254,7 @@
                 "last_commit": "2026-08-17T12:48:14Z",
                 "owner": "preactjs",
                 "repo": "signals",
-                "stars": 4475
+                "stars": 4474
               }
             },
             {
@@ -575,7 +575,7 @@
             "last_commit": "2026-08-18T04:15:17Z",
             "owner": "iamkun",
             "repo": "dayjs",
-            "stars": 48664
+            "stars": 48665
           }
         },
         {
@@ -590,7 +590,7 @@
             "last_commit": "2026-08-10T08:47:59Z",
             "owner": "date-fns",
             "repo": "date-fns",
-            "stars": 36629
+            "stars": 36632
           }
         },
         {
@@ -764,10 +764,10 @@
             "archived": false,
             "id": 663456281,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T15:52:04Z",
+            "last_commit": "2026-08-20T15:25:02Z",
             "owner": "open-circle",
             "repo": "valibot",
-            "stars": 8936
+            "stars": 8942
           }
         },
         {
@@ -848,7 +848,7 @@
             "last_commit": "2026-08-10T20:13:57Z",
             "owner": "ai",
             "repo": "nanoid",
-            "stars": 26941
+            "stars": 26942
           }
         },
         {
@@ -926,10 +926,10 @@
             "archived": false,
             "id": 316474381,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T17:13:00Z",
+            "last_commit": "2026-08-20T16:59:16Z",
             "owner": "omgovich",
             "repo": "colord",
-            "stars": 1879
+            "stars": 1882
           }
         },
         {
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T18:58:57.827Z",
+    "last_updated": "2026-08-20T19:08:00.496Z",
     "original_repository": "thoughtspile/awesome-tiny-js",
     "original_repository_id": 608234505,
     "original_repository_sha": "f49d74e245824eb1194a01636b8dd3b0904d347c",
