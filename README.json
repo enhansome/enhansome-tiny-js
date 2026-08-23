@@ -45,7 +45,7 @@
             "last_commit": "2026-07-16T18:32:40Z",
             "owner": "vanjs-org",
             "repo": "van",
-            "stars": 4423
+            "stars": 4422
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-01T16:52:04Z",
             "owner": "standardagents",
             "repo": "arrow-js",
-            "stars": 3724
+            "stars": 3725
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-19T13:05:32Z",
             "owner": "pmndrs",
             "repo": "zustand",
-            "stars": 58595
+            "stars": 58596
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-20T18:33:11Z",
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7571
+            "stars": 7573
           }
         },
         {
@@ -473,7 +473,7 @@
             "last_commit": "2023-08-15T22:45:22Z",
             "owner": "developit",
             "repo": "redaxios",
-            "stars": 4882
+            "stars": 4881
           }
         },
         {
@@ -509,7 +509,7 @@
             "last_commit": "2026-08-14T09:54:25Z",
             "owner": "lingui",
             "repo": "js-lingui",
-            "stars": 5853
+            "stars": 5854
           }
         },
         {
@@ -575,7 +575,7 @@
             "last_commit": "2026-08-18T04:15:17Z",
             "owner": "iamkun",
             "repo": "dayjs",
-            "stars": 48665
+            "stars": 48667
           }
         },
         {
@@ -590,7 +590,7 @@
             "last_commit": "2026-08-10T08:47:59Z",
             "owner": "date-fns",
             "repo": "date-fns",
-            "stars": 36637
+            "stars": 36638
           }
         },
         {
@@ -713,10 +713,10 @@
             "archived": false,
             "id": 132434056,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T15:52:50Z",
+            "last_commit": "2026-08-23T12:08:49Z",
             "owner": "remeda",
             "repo": "remeda",
-            "stars": 5415
+            "stars": 5416
           }
         },
         {
@@ -767,7 +767,7 @@
             "last_commit": "2026-08-22T09:03:59Z",
             "owner": "open-circle",
             "repo": "valibot",
-            "stars": 8950
+            "stars": 8951
           }
         },
         {
@@ -848,7 +848,7 @@
             "last_commit": "2026-08-10T20:13:57Z",
             "owner": "ai",
             "repo": "nanoid",
-            "stars": 26942
+            "stars": 26939
           }
         },
         {
@@ -926,7 +926,7 @@
             "archived": false,
             "id": 316474381,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T16:59:16Z",
+            "last_commit": "2026-08-23T14:33:23Z",
             "owner": "omgovich",
             "repo": "colord",
             "stars": 1885
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T18:53:55.984Z",
+    "last_updated": "2026-08-23T18:53:54.285Z",
     "original_repository": "thoughtspile/awesome-tiny-js",
     "original_repository_id": 608234505,
     "original_repository_sha": "f49d74e245824eb1194a01636b8dd3b0904d347c",
