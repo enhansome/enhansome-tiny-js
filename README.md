@@ -37,7 +37,7 @@ Tiny front-end libraries to put your bundle on a diet. Rules:
 
 UI frameworks (libraries?) provide declarative templates, event bindings, and observable state to update the view. I've been generous and expanded the size limit for this category to 4.5 kB (if you're boring, count them as 2 libraries), but also increased the star limit to 2K.
 
-* [preact](https://github.com/preactjs/preact) ⭐ 38,831 | 🐛 40 | 🌐 JavaScript | 📅 2026-08-24 - React-like API (pre-hooks). Cool ecosystem of similarly tiny tools and components. Highly recommended. <img align="top" height="24" src="./img/preact.svg">
+* [preact](https://github.com/preactjs/preact) ⭐ 38,831 | 🐛 41 | 🌐 JavaScript | 📅 2026-08-25 - React-like API (pre-hooks). Cool ecosystem of similarly tiny tools and components. Highly recommended. <img align="top" height="24" src="./img/preact.svg">
 
 The following libraries are small and cool, but note they're about [500x less popular than preact.](https://npmtrends.com/preact-vs-hyperapp-vs-redom) Kudos for deconstrucing the very essence of a "framework":
 
@@ -67,8 +67,8 @@ Event emitter pattern is fairly easy to implement yourself, but why bother when 
 
 State managers combine observable state with actions and framework bindings, intended for app-wide state.
 
-* [zustand](https://github.com/pmndrs/zustand) ⭐ 58,602 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-19 - Simple stores with pleasant actions and selectors. Vanilla <img align="top" height="24" src="./img/zustandvanilla.svg">, React <img align="top" height="24" src="./img/zustand.svg">
-* [nanostores](https://github.com/nanostores/nanostores) ⭐ 7,577 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-20 - Modular store with good tree-shaking support, <img align="top" height="24" src="./img/nanostores.svg"> vanilla, + React <img align="top" height="24" src="./img/nanostoresreact.svg"> extra. Supports all the top frameworks.
+* [zustand](https://github.com/pmndrs/zustand) ⭐ 58,605 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-24 - Simple stores with pleasant actions and selectors. Vanilla <img align="top" height="24" src="./img/zustandvanilla.svg">, React <img align="top" height="24" src="./img/zustand.svg">
+* [nanostores](https://github.com/nanostores/nanostores) ⭐ 7,578 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-20 - Modular store with good tree-shaking support, <img align="top" height="24" src="./img/nanostores.svg"> vanilla, + React <img align="top" height="24" src="./img/nanostoresreact.svg"> extra. Supports all the top frameworks.
 * [unistore](https://github.com/developit/unistore) ⭐ 2,846 | 🐛 46 | 🌐 JavaScript | 📅 2021-06-07 - Centralized store with actions, <img align="top" height="24" src="./img/unistore.svg"> + React <img align="top" height="24" src="./img/unistorereact.svg">
 * [storeon](https://github.com/storeon/storeon) ⭐ 1,976 | 🐛 15 | 🌐 JavaScript | 📅 2024-12-10 - Minimal redux-styled store with lots of framework connectors, <img align="top" height="24" src="./img/storeon.svg">. React extra <img align="top" height="24" src="./img/storeonreact.svg"> + Vue, Svelte, Angular.
 * [teaful](https://github.com/teafuljs/teaful) ⭐ 712 | 🐛 18 | 🌐 TypeScript | 📅 2026-04-09 - Store with useState-like API, <img align="top" height="24" src="./img/teaful.svg">, including React / preact connector.
@@ -96,7 +96,7 @@ Another well-known state management approach is reactive programmning — operat
 
 Do stuff on URL / history changes, with path matching and parsing:
 
-* [wouter](https://github.com/molefrog/wouter) ⭐ 7,867 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-21 - Declarative router for React / preact, <img align="top" height="24" src="./img/wouter.svg">, also available as a standalone hook: <img align="top" height="24" src="./img/wouteruse-browser-location.svg">
+* [wouter](https://github.com/molefrog/wouter) ⭐ 7,868 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-21 - Declarative router for React / preact, <img align="top" height="24" src="./img/wouter.svg">, also available as a standalone hook: <img align="top" height="24" src="./img/wouteruse-browser-location.svg">
 * [navaid](https://github.com/lukeed/navaid) ⭐ 796 | 🐛 7 | 🌐 JavaScript | 📅 2024-01-20 - History-based observable router, <img align="top" height="24" src="./img/navaid.svg">
 * [@nanostores/router](https://github.com/nanostores/router) ⭐ 326 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-23 - Routes as a nanostores store (framework-agnostic), <img align="top" height="24" src="./img/nanostoresrouter.svg">
 
@@ -131,12 +131,12 @@ A map of strings might seem enough to translate an app, but these tools also han
 
 Date and time manipulation in pure JS is verbose. Luckily, two of the top date libraries have sensible size:
 
-* [dayjs](https://github.com/iamkun/dayjs) ⭐ 48,668 | 🐛 1,300 | 🌐 JavaScript | 📅 2026-08-18 - *Almost* moment.js-compatible API, covers most use cases, <img align="top" height="24" src="./img/dayjsesm.svg">
-* [date-fns](https://github.com/date-fns/date-fns/) ⭐ 36,642 | 🐛 996 | 🌐 TypeScript | 📅 2026-08-10 - Not tiny as a whole, but [most functions](https://bundlephobia.com/package/date-fns) are under 1 kB each (format and parse are quite heavy).
+* [dayjs](https://github.com/iamkun/dayjs) ⭐ 48,669 | 🐛 1,300 | 🌐 JavaScript | 📅 2026-08-18 - *Almost* moment.js-compatible API, covers most use cases, <img align="top" height="24" src="./img/dayjsesm.svg">
+* [date-fns](https://github.com/date-fns/date-fns/) ⭐ 36,645 | 🐛 996 | 🌐 TypeScript | 📅 2026-08-10 - Not tiny as a whole, but [most functions](https://bundlephobia.com/package/date-fns) are under 1 kB each (format and parse are quite heavy).
 
 And some more packages that only do formatting:
 
-* [ms](https://github.com/vercel/ms) ⭐ 5,544 | 🐛 37 | 🌐 TypeScript | 📅 2026-05-20 - Parse & format ms durations, e.g. `"1m" <-> 60000`, <img align="top" height="24" src="./img/ms.svg">
+* [ms](https://github.com/vercel/ms) ⭐ 5,545 | 🐛 37 | 🌐 TypeScript | 📅 2026-05-20 - Parse & format ms durations, e.g. `"1m" <-> 60000`, <img align="top" height="24" src="./img/ms.svg">
 * [timeago.js](https://github.com/hustcc/timeago.js) ⭐ 5,371 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-30 - Format dates into stuff like *X minutes ago* or *in X hours,* <img align="top" height="24" src="./img/timeagojs.svg">
 * [tinytime](https://github.com/aweary/tinytime) ⭐ 1,323 | 🐛 19 | 🌐 JavaScript | 📅 2023-01-12 - Simple date / time formatter: `{h}:{mm} -> 9:33`, <img align="top" height="24" src="./img/tinytime.svg">
 * [tinydate](https://github.com/lukeed/tinydate) ⭐ 1,067 | 🐛 2 | 🌐 JavaScript | 📅 2024-01-20 - Date / time formatter, only supports padded numeric output (`September -> 09`), <img align="top" height="24" src="./img/tinydate.svg">
@@ -150,7 +150,7 @@ Note that the built-in [`Intl.DateTimeFormat`](https://developer.mozilla.org/en-
 Something you'd find in lodash or ramda, but smaller. Most are pretty similar and very small, with minor differences in package structure (single / package-per-helper) and tree shaking vs direct helper import.
 
 * [just](https://github.com/angus-c/just) ⭐ 6,203 | 🐛 58 | 🌐 JavaScript | 📅 2024-02-11 - 82 helpers in separate packages [(list).](https://anguscroll.com/just/)
-* [remeda](https://github.com/remeda/remeda) ⭐ 5,418 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-24 - 90 tree-shakable helpers [(list).](https://bundlephobia.com/package/remeda)
+* [remeda](https://github.com/remeda/remeda) ⭐ 5,418 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-24 - 90 tree-shakable helpers [(list).](https://bundlephobia.com/package/remeda)
 * [rambda](https://github.com/selfrefactor/rambda) ⭐ 1,754 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-13 - 187 tree-shakable helpers [(list).](https://bundlephobia.com/package/rambda)
 * [@fxts/core](https://github.com/marpple/FxTS) ⭐ 1,166 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-08 - 96 tree-shakable helpers. Lazy evaluation support.
 
@@ -164,7 +164,7 @@ Also note that much of the original lodash functionality comes built-in with mod
 
 To check if an object matches an expected schema, you'd often use zod, yup, joi or ajv. But 90% of the time you can get what you need in under 2 kB. *Note:* I compare a base validation subset (core + object / array + string / number / boolean) under tree-shaking to avoid punishing libs that have more features.
 
-* [valibot](https://github.com/fabian-hiller/valibot) ⭐ 8,953 | 🐛 172 | 🌐 TypeScript | 📅 2026-08-22 - Another modular validation library, <img align="top" height="24" src="./img/valibot.svg">
+* [valibot](https://github.com/fabian-hiller/valibot) ⭐ 8,954 | 🐛 172 | 🌐 TypeScript | 📅 2026-08-22 - Another modular validation library, <img align="top" height="24" src="./img/valibot.svg">
 * [superstruct](https://github.com/ianstormtaylor/superstruct) ⭐ 7,135 | 🐛 104 | 🌐 TypeScript | 📅 2024-10-01 - The most popular modular validation library with good tree-shaking, <img align="top" height="24" src="./img/superstruct.svg">
 * [v8n](https://github.com/imbrn/v8n) ⭐ 4,143 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-01 - zod-style API with fine-grained checks: `v8n().string().minLength(5).first("H").last("o")`. No tree shaking, <img align="top" height="24" src="./img/vn.svg">
 * [deep-waters](https://github.com/antonioru/deep-waters) ⭐ 202 | 🐛 16 | 🌐 JavaScript | 📅 2023-01-06 - Composable functional validators, <img align="top" height="24" src="./img/deep-waterscompose-deep-watershasShape-deep-watersarrayOf-deep-watersisString-deep-watersisNumber-deep-watersisBoolean.svg">.
@@ -174,7 +174,7 @@ To check if an object matches an expected schema, you'd often use zod, yup, joi 
 
 Unique ID generation does not take a lot of code, but it's not someting I'd want to write myself. Limit is 500 bytes. Also note that the [native `crypto.randomUUID`](https://developer.mozilla.org/en-US/docs/Web/API/Crypto/randomUUID) has [OK support.](https://caniuse.com/mdn-api_crypto_randomuuid)
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 26,939 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - Random IDs with larger alphabet, <img align="top" height="24" src="./img/nanoid.svg">
+* [nanoid](https://github.com/ai/nanoid) ⭐ 26,940 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - Random IDs with larger alphabet, <img align="top" height="24" src="./img/nanoid.svg">
 * [uid](https://github.com/lukeed/uid) ⭐ 667 | 🐛 2 | 🌐 JavaScript | 📅 2024-09-27 - More of the same, <img align="top" height="24" src="./img/uid.svg">
 * [@lukeed/uuid](https://github.com/lukeed/uuid) ⭐ 409 | 🐛 5 | 🌐 JavaScript | 📅 2024-09-27 - Real UUIDs, <img align="top" height="24" src="./img/lukeeduuid.svg">
 * [hexoid](https://github.com/lukeed/hexoid) ⭐ 205 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-04 - Hexadecimal IDs, <img align="top" height="24" src="./img/hexoid.svg">
@@ -184,7 +184,7 @@ Unique ID generation does not take a lot of code, but it's not someting I'd want
 Color manipulation is rare in pure UI development, but very helpful for data visualization, and uses [freaky math.](https://en.wikipedia.org/wiki/HSL_and_HSV#Color_conversion_formulae) Don't fry your brain, take these:
 
 * [randomcolor](https://github.com/davidmerfield/randomColor) ⭐ 6,124 | 🐛 16 | 🌐 JavaScript | 📅 2025-12-03 - Attractive random colors with configuration. <img align="top" height="24" src="./img/randomcolor.svg">
-* [colord](https://github.com/omgovich/colord) ⭐ 1,885 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-24 - Manipulate colors and convert between spaces, <img align="top" height="24" src="./img/colord.svg">. Extra features come as plugins, 150b to 1.5 kB each.
+* [colord](https://github.com/omgovich/colord) ⭐ 1,885 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-24 - Manipulate colors and convert between spaces, <img align="top" height="24" src="./img/colord.svg">. Extra features come as plugins, 150b to 1.5 kB each.
 * [polychrome](https://github.com/cdonohue/polychrome) ⭐ 288 | 🐛 6 | 🌐 TypeScript | 📅 2018-02-11 - More of the same, <img align="top" height="24" src="./img/polychrome.svg">
 * [colr](https://github.com/stayradiated/colr) ⭐ 106 | 🐛 1 | 🌐 JavaScript | 📅 2020-05-07 - More of the same, <img align="top" height="24" src="./img/colr.svg" >
 
@@ -245,4 +245,4 @@ Collected and reviewed by [Vladimir Klepov](https://blog.thoughtspile.tech) in 2
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
