@@ -60,7 +60,7 @@
             "last_commit": "2026-07-16T18:32:40Z",
             "owner": "vanjs-org",
             "repo": "van",
-            "stars": 4422
+            "stars": 4421
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-07-01T16:52:04Z",
             "owner": "standardagents",
             "repo": "arrow-js",
-            "stars": 3729
+            "stars": 3730
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-02T15:05:57Z",
             "owner": "franciscop",
             "repo": "umbrella",
-            "stars": 2344
+            "stars": 2345
           }
         }
       ],
@@ -141,7 +141,7 @@
             "last_commit": "2024-08-14T08:58:20Z",
             "owner": "developit",
             "repo": "mitt",
-            "stars": 11900
+            "stars": 11902
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-24T23:48:49Z",
             "owner": "pmndrs",
             "repo": "zustand",
-            "stars": 58612
+            "stars": 58616
           }
         },
         {
@@ -204,10 +204,10 @@
             "archived": false,
             "id": 304120355,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T18:33:11Z",
+            "last_commit": "2026-08-27T10:06:15Z",
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7580
+            "stars": 7581
           }
         },
         {
@@ -620,7 +620,7 @@
             "last_commit": "2026-08-18T04:15:17Z",
             "owner": "iamkun",
             "repo": "dayjs",
-            "stars": 48664
+            "stars": 48665
           }
         },
         {
@@ -635,7 +635,7 @@
             "last_commit": "2026-08-10T08:47:59Z",
             "owner": "date-fns",
             "repo": "date-fns",
-            "stars": 36645
+            "stars": 36642
           }
         },
         {
@@ -650,7 +650,7 @@
             "last_commit": "2026-05-20T22:24:50Z",
             "owner": "vercel",
             "repo": "ms",
-            "stars": 5545
+            "stars": 5544
           }
         },
         {
@@ -761,7 +761,7 @@
             "last_commit": "2026-08-26T13:42:33Z",
             "owner": "remeda",
             "repo": "remeda",
-            "stars": 5419
+            "stars": 5420
           }
         },
         {
@@ -812,7 +812,7 @@
             "last_commit": "2026-08-22T09:03:59Z",
             "owner": "open-circle",
             "repo": "valibot",
-            "stars": 8961
+            "stars": 8963
           }
         },
         {
@@ -827,7 +827,7 @@
             "last_commit": "2024-10-01T02:42:53Z",
             "owner": "ianstormtaylor",
             "repo": "superstruct",
-            "stars": 7135
+            "stars": 7133
           }
         },
         {
@@ -893,7 +893,7 @@
             "last_commit": "2026-08-10T20:13:57Z",
             "owner": "ai",
             "repo": "nanoid",
-            "stars": 26944
+            "stars": 26948
           }
         },
         {
@@ -1286,9 +1286,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:17:12.192Z",
-    "original_repository": "thoughtspile/awesome-tiny-js",
-    "original_repository_id": 608234505,
+    "last_updated": "2026-08-27T12:08:38.199Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 608234505,
+      "language": "JavaScript",
+      "last_commit": "2024-09-24T10:21:03Z",
+      "owner": "thoughtspile",
+      "repo": "awesome-tiny-js",
+      "stars": 777
+    },
     "original_repository_sha": "f49d74e245824eb1194a01636b8dd3b0904d347c",
     "enhanced_repository": "enhansome/enhansome-tiny-js",
     "enhanced_repository_description": null,
