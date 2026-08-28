@@ -37,7 +37,7 @@ Tiny front-end libraries to put your bundle on a diet. Rules:
 
 UI frameworks (libraries?) provide declarative templates, event bindings, and observable state to update the view. I've been generous and expanded the size limit for this category to 4.5 kB (if you're boring, count them as 2 libraries), but also increased the star limit to 2K.
 
-* [preact](https://github.com/preactjs/preact) ⭐ 38,834 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-26 - React-like API (pre-hooks). Cool ecosystem of similarly tiny tools and components. Highly recommended. <img align="top" height="24" src="./img/preact.svg">
+* [preact](https://github.com/preactjs/preact) ⭐ 38,835 | 🐛 41 | 🌐 JavaScript | 📅 2026-08-27 - React-like API (pre-hooks). Cool ecosystem of similarly tiny tools and components. Highly recommended. <img align="top" height="24" src="./img/preact.svg">
 
 The following libraries are small and cool, but note they're about [500x less popular than preact.](https://npmtrends.com/preact-vs-hyperapp-vs-redom) Kudos for deconstrucing the very essence of a "framework":
 
@@ -48,7 +48,7 @@ Now, for the [openly experimental](https://npmtrends.com/@arrow-js/core-vs-fre-v
 
 * [van](https://github.com/vanjs-org/van) ⭐ 4,421 | 🐛 40 | 🌐 JavaScript | 📅 2026-07-16 - vDOM-based framework optimized for no-build setups, <img align="top" height="24" src="./img/vanjs-core.svg">
 * [fre](https://github.com/frejs/fre) ⭐ 3,765 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-09 - React-like library with hooks and concurrency, <img align="top" height="24" src="./img/fre.svg">
-* [arrowjs](https://github.com/justin-schroeder/arrow-js) ⭐ 3,730 | 🐛 6 | 🌐 TypeScript | 📅 2026-07-01 - Tagged templates + reactive data, <img align="top" height="24" src="./img/arrow-jscore.svg">
+* [arrowjs](https://github.com/justin-schroeder/arrow-js) ⭐ 3,729 | 🐛 6 | 🌐 TypeScript | 📅 2026-07-01 - Tagged templates + reactive data, <img align="top" height="24" src="./img/arrow-jscore.svg">
 * [superfine](https://github.com/jorgebucaran/superfine) ⭐ 1,596 | 🐛 5 | 🌐 JavaScript | 📅 2022-08-16 - Hyperapp with state & effect hooks removed, <img align="top" height="24" src="./img/superfine.svg">
 
 And if being declarative is not your thing:
@@ -67,7 +67,7 @@ Event emitter pattern is fairly easy to implement yourself, but why bother when 
 
 State managers combine observable state with actions and framework bindings, intended for app-wide state.
 
-* [zustand](https://github.com/pmndrs/zustand) ⭐ 58,616 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-24 - Simple stores with pleasant actions and selectors. Vanilla <img align="top" height="24" src="./img/zustandvanilla.svg">, React <img align="top" height="24" src="./img/zustand.svg">
+* [zustand](https://github.com/pmndrs/zustand) ⭐ 58,621 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-24 - Simple stores with pleasant actions and selectors. Vanilla <img align="top" height="24" src="./img/zustandvanilla.svg">, React <img align="top" height="24" src="./img/zustand.svg">
 * [nanostores](https://github.com/nanostores/nanostores) ⭐ 7,581 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-27 - Modular store with good tree-shaking support, <img align="top" height="24" src="./img/nanostores.svg"> vanilla, + React <img align="top" height="24" src="./img/nanostoresreact.svg"> extra. Supports all the top frameworks.
 * [unistore](https://github.com/developit/unistore) ⭐ 2,846 | 🐛 46 | 🌐 JavaScript | 📅 2021-06-07 - Centralized store with actions, <img align="top" height="24" src="./img/unistore.svg"> + React <img align="top" height="24" src="./img/unistorereact.svg">
 * [storeon](https://github.com/storeon/storeon) ⭐ 1,976 | 🐛 15 | 🌐 JavaScript | 📅 2024-12-10 - Minimal redux-styled store with lots of framework connectors, <img align="top" height="24" src="./img/storeon.svg">. React extra <img align="top" height="24" src="./img/storeonreact.svg"> + Vue, Svelte, Angular.
@@ -78,7 +78,7 @@ State managers combine observable state with actions and framework bindings, int
 
 A signal-styled state manager provides observable values (aka *signals*), derived values and effects.
 
-* [@preact/signals](https://github.com/preactjs/signals) ⭐ 4,475 | 🐛 42 | 🌐 TypeScript | 📅 2026-08-17 - The OG signals from preact <img align="top" height="24" src="./img/preactsignals-core.svg"> core, <img align="top" height="24" src="./img/preactsignals-react.svg"> with react integration.
+* [@preact/signals](https://github.com/preactjs/signals) ⭐ 4,476 | 🐛 42 | 🌐 TypeScript | 📅 2026-08-17 - The OG signals from preact <img align="top" height="24" src="./img/preactsignals-core.svg"> core, <img align="top" height="24" src="./img/preactsignals-react.svg"> with react integration.
 * [hyperactiv](https://github.com/elbywan/hyperactiv) ⭐ 446 | 🐛 8 | 🌐 JavaScript | 📅 2026-06-21 - 4 functions to make objects observable and listen to changes, <img align="top" height="24" src="./img/hyperactiv.svg">
 * [usignal](https://github.com/WebReflection/usignal) ⭐ 268 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-28 - A smaller signal implementation, <img align="top" height="24" src="./img/usignal.svg">
 * [flimsy](https://github.com/fabiospampinato/flimsy) ⭐ 193 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-17 - Signals from Solid (it *almost* fit into UI frameworks category itself). Author warning: *it's probably buggy.* <img align="top" height="24" src="./img/flimsy.svg">
@@ -96,7 +96,7 @@ Another well-known state management approach is reactive programmning — operat
 
 Do stuff on URL / history changes, with path matching and parsing:
 
-* [wouter](https://github.com/molefrog/wouter) ⭐ 7,868 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-21 - Declarative router for React / preact, <img align="top" height="24" src="./img/wouter.svg">, also available as a standalone hook: <img align="top" height="24" src="./img/wouteruse-browser-location.svg">
+* [wouter](https://github.com/molefrog/wouter) ⭐ 7,867 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-21 - Declarative router for React / preact, <img align="top" height="24" src="./img/wouter.svg">, also available as a standalone hook: <img align="top" height="24" src="./img/wouteruse-browser-location.svg">
 * [navaid](https://github.com/lukeed/navaid) ⭐ 796 | 🐛 7 | 🌐 JavaScript | 📅 2024-01-20 - History-based observable router, <img align="top" height="24" src="./img/navaid.svg">
 * [@nanostores/router](https://github.com/nanostores/router) ⭐ 326 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-23 - Routes as a nanostores store (framework-agnostic), <img align="top" height="24" src="./img/nanostoresrouter.svg">
 
@@ -131,13 +131,13 @@ A map of strings might seem enough to translate an app, but these tools also han
 
 Date and time manipulation in pure JS is verbose. Luckily, two of the top date libraries have sensible size:
 
-* [dayjs](https://github.com/iamkun/dayjs) ⭐ 48,665 | 🐛 1,302 | 🌐 JavaScript | 📅 2026-08-18 - *Almost* moment.js-compatible API, covers most use cases, <img align="top" height="24" src="./img/dayjsesm.svg">
+* [dayjs](https://github.com/iamkun/dayjs) ⭐ 48,666 | 🐛 1,305 | 🌐 JavaScript | 📅 2026-08-18 - *Almost* moment.js-compatible API, covers most use cases, <img align="top" height="24" src="./img/dayjsesm.svg">
 * [date-fns](https://github.com/date-fns/date-fns/) ⭐ 36,642 | 🐛 1,001 | 🌐 TypeScript | 📅 2026-08-10 - Not tiny as a whole, but [most functions](https://bundlephobia.com/package/date-fns) are under 1 kB each (format and parse are quite heavy).
 
 And some more packages that only do formatting:
 
 * [ms](https://github.com/vercel/ms) ⭐ 5,544 | 🐛 37 | 🌐 TypeScript | 📅 2026-05-20 - Parse & format ms durations, e.g. `"1m" <-> 60000`, <img align="top" height="24" src="./img/ms.svg">
-* [timeago.js](https://github.com/hustcc/timeago.js) ⭐ 5,371 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-30 - Format dates into stuff like *X minutes ago* or *in X hours,* <img align="top" height="24" src="./img/timeagojs.svg">
+* [timeago.js](https://github.com/hustcc/timeago.js) ⭐ 5,372 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-30 - Format dates into stuff like *X minutes ago* or *in X hours,* <img align="top" height="24" src="./img/timeagojs.svg">
 * [tinytime](https://github.com/aweary/tinytime) ⭐ 1,323 | 🐛 19 | 🌐 JavaScript | 📅 2023-01-12 - Simple date / time formatter: `{h}:{mm} -> 9:33`, <img align="top" height="24" src="./img/tinytime.svg">
 * [tinydate](https://github.com/lukeed/tinydate) ⭐ 1,067 | 🐛 2 | 🌐 JavaScript | 📅 2024-01-20 - Date / time formatter, only supports padded numeric output (`September -> 09`), <img align="top" height="24" src="./img/tinydate.svg">
 * [fromnow](https://github.com/lukeed/fromnow) ⭐ 187 | 🐛 2 | 🌐 JavaScript | 📅 2019-07-08 - More of the same, <img align="top" height="24" src="./img/fromnow.svg">
@@ -164,8 +164,8 @@ Also note that much of the original lodash functionality comes built-in with mod
 
 To check if an object matches an expected schema, you'd often use zod, yup, joi or ajv. But 90% of the time you can get what you need in under 2 kB. *Note:* I compare a base validation subset (core + object / array + string / number / boolean) under tree-shaking to avoid punishing libs that have more features.
 
-* [valibot](https://github.com/fabian-hiller/valibot) ⭐ 8,963 | 🐛 174 | 🌐 TypeScript | 📅 2026-08-22 - Another modular validation library, <img align="top" height="24" src="./img/valibot.svg">
-* [superstruct](https://github.com/ianstormtaylor/superstruct) ⭐ 7,133 | 🐛 104 | 🌐 TypeScript | 📅 2024-10-01 - The most popular modular validation library with good tree-shaking, <img align="top" height="24" src="./img/superstruct.svg">
+* [valibot](https://github.com/fabian-hiller/valibot) ⭐ 8,964 | 🐛 174 | 🌐 TypeScript | 📅 2026-08-22 - Another modular validation library, <img align="top" height="24" src="./img/valibot.svg">
+* [superstruct](https://github.com/ianstormtaylor/superstruct) ⭐ 7,134 | 🐛 104 | 🌐 TypeScript | 📅 2024-10-01 - The most popular modular validation library with good tree-shaking, <img align="top" height="24" src="./img/superstruct.svg">
 * [v8n](https://github.com/imbrn/v8n) ⭐ 4,143 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-01 - zod-style API with fine-grained checks: `v8n().string().minLength(5).first("H").last("o")`. No tree shaking, <img align="top" height="24" src="./img/vn.svg">
 * [deep-waters](https://github.com/antonioru/deep-waters) ⭐ 202 | 🐛 16 | 🌐 JavaScript | 📅 2023-01-06 - Composable functional validators, <img align="top" height="24" src="./img/deep-waterscompose-deep-watershasShape-deep-watersarrayOf-deep-watersisString-deep-watersisNumber-deep-watersisBoolean.svg">.
 * [banditypes](https://github.com/thoughtspile/banditypes) ⭐ 183 | 🐛 3 | 🌐 JavaScript | 📅 2026-07-08 - The smallest validation library: <img align="top" height="24" src="./img/banditypes.svg">
@@ -174,7 +174,7 @@ To check if an object matches an expected schema, you'd often use zod, yup, joi 
 
 Unique ID generation does not take a lot of code, but it's not someting I'd want to write myself. Limit is 500 bytes. Also note that the [native `crypto.randomUUID`](https://developer.mozilla.org/en-US/docs/Web/API/Crypto/randomUUID) has [OK support.](https://caniuse.com/mdn-api_crypto_randomuuid)
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 26,948 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - Random IDs with larger alphabet, <img align="top" height="24" src="./img/nanoid.svg">
+* [nanoid](https://github.com/ai/nanoid) ⭐ 26,952 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - Random IDs with larger alphabet, <img align="top" height="24" src="./img/nanoid.svg">
 * [uid](https://github.com/lukeed/uid) ⭐ 667 | 🐛 2 | 🌐 JavaScript | 📅 2024-09-27 - More of the same, <img align="top" height="24" src="./img/uid.svg">
 * [@lukeed/uuid](https://github.com/lukeed/uuid) ⭐ 409 | 🐛 5 | 🌐 JavaScript | 📅 2024-09-27 - Real UUIDs, <img align="top" height="24" src="./img/lukeeduuid.svg">
 * [hexoid](https://github.com/lukeed/hexoid) ⭐ 205 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-04 - Hexadecimal IDs, <img align="top" height="24" src="./img/hexoid.svg">
@@ -184,7 +184,7 @@ Unique ID generation does not take a lot of code, but it's not someting I'd want
 Color manipulation is rare in pure UI development, but very helpful for data visualization, and uses [freaky math.](https://en.wikipedia.org/wiki/HSL_and_HSV#Color_conversion_formulae) Don't fry your brain, take these:
 
 * [randomcolor](https://github.com/davidmerfield/randomColor) ⭐ 6,124 | 🐛 16 | 🌐 JavaScript | 📅 2025-12-03 - Attractive random colors with configuration. <img align="top" height="24" src="./img/randomcolor.svg">
-* [colord](https://github.com/omgovich/colord) ⭐ 1,885 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-24 - Manipulate colors and convert between spaces, <img align="top" height="24" src="./img/colord.svg">. Extra features come as plugins, 150b to 1.5 kB each.
+* [colord](https://github.com/omgovich/colord) ⭐ 1,886 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-24 - Manipulate colors and convert between spaces, <img align="top" height="24" src="./img/colord.svg">. Extra features come as plugins, 150b to 1.5 kB each.
 * [polychrome](https://github.com/cdonohue/polychrome) ⭐ 288 | 🐛 6 | 🌐 TypeScript | 📅 2018-02-11 - More of the same, <img align="top" height="24" src="./img/polychrome.svg">
 * [colr](https://github.com/stayradiated/colr) ⭐ 106 | 🐛 1 | 🌐 JavaScript | 📅 2020-05-07 - More of the same, <img align="top" height="24" src="./img/colr.svg" >
 
@@ -192,7 +192,7 @@ Color manipulation is rare in pure UI development, but very helpful for data vis
 
 Touch gestures like swipe, drag, pinch or doubletap are a staple of mobile UX, but recognizing a series of touchmove / pointer events as a gesture is tricky, and testing is painful. Here are two libraries that do the heavy lifting for you:
 
-* [alloyfinger](https://github.com/AlloyTeam/AlloyFinger) ⭐ 3,439 | 🐛 77 | 🌐 JavaScript | 📅 2019-01-03 - Pan, swipe, tap, doubletap, longpress, *and* pinch / rotate. My personal favorite. <img align="top" height="24" src="./img/alloyfinger.svg">.
+* [alloyfinger](https://github.com/AlloyTeam/AlloyFinger) ⭐ 3,438 | 🐛 77 | 🌐 JavaScript | 📅 2019-01-03 - Pan, swipe, tap, doubletap, longpress, *and* pinch / rotate. My personal favorite. <img align="top" height="24" src="./img/alloyfinger.svg">.
 * [tinygesture](https://github.com/sciactive/tinygesture) ⭐ 228 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-04 - Configurable pan, swipe, tap, doubletap, longpress. <img align="top" height="24" src="./img/tinygesture.svg">.
 
 Even if you want to detect gestures yourself, juggling mouse, touch and pointer events is hard enough, and browser inconsistencies don't help. Here are two more libraries to assist with that:
@@ -245,4 +245,4 @@ Collected and reviewed by [Vladimir Klepov](https://blog.thoughtspile.tech) in 2
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

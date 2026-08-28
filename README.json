@@ -12,10 +12,10 @@
             "archived": false,
             "id": 42283287,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T07:47:12Z",
+            "last_commit": "2026-08-27T12:51:38Z",
             "owner": "preactjs",
             "repo": "preact",
-            "stars": 38834
+            "stars": 38835
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-07-01T16:52:04Z",
             "owner": "standardagents",
             "repo": "arrow-js",
-            "stars": 3730
+            "stars": 3729
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-24T23:48:49Z",
             "owner": "pmndrs",
             "repo": "zustand",
-            "stars": 58616
+            "stars": 58621
           }
         },
         {
@@ -284,7 +284,7 @@
                 "last_commit": "2026-08-17T12:48:14Z",
                 "owner": "preactjs",
                 "repo": "signals",
-                "stars": 4475
+                "stars": 4476
               }
             },
             {
@@ -392,7 +392,7 @@
             "last_commit": "2026-08-21T16:12:40Z",
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7868
+            "stars": 7867
           }
         },
         {
@@ -620,7 +620,7 @@
             "last_commit": "2026-08-18T04:15:17Z",
             "owner": "iamkun",
             "repo": "dayjs",
-            "stars": 48665
+            "stars": 48666
           }
         },
         {
@@ -665,7 +665,7 @@
             "last_commit": "2026-06-30T01:08:09Z",
             "owner": "hustcc",
             "repo": "timeago.js",
-            "stars": 5371
+            "stars": 5372
           }
         },
         {
@@ -812,7 +812,7 @@
             "last_commit": "2026-08-22T09:03:59Z",
             "owner": "open-circle",
             "repo": "valibot",
-            "stars": 8963
+            "stars": 8964
           }
         },
         {
@@ -827,7 +827,7 @@
             "last_commit": "2024-10-01T02:42:53Z",
             "owner": "ianstormtaylor",
             "repo": "superstruct",
-            "stars": 7133
+            "stars": 7134
           }
         },
         {
@@ -893,7 +893,7 @@
             "last_commit": "2026-08-10T20:13:57Z",
             "owner": "ai",
             "repo": "nanoid",
-            "stars": 26948
+            "stars": 26952
           }
         },
         {
@@ -974,7 +974,7 @@
             "last_commit": "2026-08-24T09:43:33Z",
             "owner": "omgovich",
             "repo": "colord",
-            "stars": 1885
+            "stars": 1886
           }
         },
         {
@@ -1025,7 +1025,7 @@
             "last_commit": "2019-01-03T07:05:23Z",
             "owner": "AlloyTeam",
             "repo": "AlloyFinger",
-            "stars": 3439
+            "stars": 3438
           }
         },
         {
@@ -1286,7 +1286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:08:38.199Z",
+    "last_updated": "2026-08-28T02:13:31.372Z",
     "original_repository_info": {
       "archived": false,
       "id": 608234505,
