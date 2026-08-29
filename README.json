@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.",
+            "homepage": "https://preactjs.com",
             "id": 42283287,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T04:01:05Z",
+            "open_issues": 42,
             "owner": "preactjs",
             "repo": "preact",
-            "stars": 38842
+            "stars": 38842,
+            "topics": [
+              "components",
+              "dom",
+              "jsx",
+              "preact",
+              "react",
+              "vdom",
+              "virtual-dom"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -26,12 +39,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "1kB-ish JavaScript framework for building hypertext applications",
+            "homepage": null,
             "id": 79527893,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-20T01:04:38Z",
+            "open_issues": 14,
             "owner": "hyperapp",
             "repo": "hyperapp",
-            "stars": 19198
+            "stars": 19198,
+            "topics": [
+              "framework",
+              "javascript",
+              "vdom",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -42,12 +65,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.",
+            "homepage": "https://redom.js.org",
             "id": 66781496,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-10T13:37:31Z",
+            "open_issues": 9,
             "owner": "redom",
             "repo": "redom",
-            "stars": 3432
+            "stars": 3432,
+            "topics": [
+              "dom",
+              "html5",
+              "javascript",
+              "redom",
+              "tiny",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -58,12 +93,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.",
+            "homepage": "https://vanjs.org",
             "id": 637646872,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-16T18:32:40Z",
+            "open_issues": 40,
             "owner": "vanjs-org",
             "repo": "van",
-            "stars": 4423
+            "stars": 4423,
+            "topics": [
+              "data-binding",
+              "dom",
+              "dom-manipulation",
+              "grab-n-go",
+              "lightweight",
+              "lightweight-framework",
+              "lightweight-javascript-library",
+              "minimalist",
+              "no-dependencies",
+              "no-setup",
+              "reactive",
+              "reactive-ui",
+              "ui-framework",
+              "ultra-light",
+              "ultra-thin",
+              "vanilla-dom-manipulation",
+              "vanilla-javascript",
+              "vanilla-js",
+              "vannilajs"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -74,12 +134,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":ghost: Tiny Concurrent UI library with Fiber.",
+            "homepage": "https://deepwiki.com/frejs/fre",
             "id": 142654069,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-09T15:18:29Z",
+            "open_issues": 10,
             "owner": "frejs",
             "repo": "fre",
-            "stars": 3765
+            "stars": 3765,
+            "topics": [
+              "fiber",
+              "fre",
+              "hook",
+              "hooks",
+              "jsx",
+              "keyed-reconcilation-algorithm",
+              "react-hooks",
+              "react-like",
+              "reconcilation",
+              "reconciliation-algorithm",
+              "vdom",
+              "vdom-library"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -90,12 +168,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution.",
+            "homepage": "https://arrow-js.com",
             "id": 563574422,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-01T16:52:04Z",
+            "open_issues": 6,
             "owner": "standardagents",
             "repo": "arrow-js",
-            "stars": 3730
+            "stars": 3730,
+            "topics": [
+              "declarative",
+              "reactive",
+              "rendering",
+              "ui",
+              "ux",
+              "web",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -106,12 +197,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Absolutely minimal view layer for building web interfaces",
+            "homepage": "https://git.io/super",
             "id": 91805577,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-08-16T03:08:33Z",
+            "open_issues": 5,
             "owner": "jorgebucaran",
             "repo": "superfine",
-            "stars": 1596
+            "stars": 1596,
+            "topics": [
+              "hyperapp",
+              "library",
+              "vdom",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -122,12 +223,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":umbrella: Lightweight javascript library for DOM manipulation and events",
+            "homepage": "https://umbrellajs.com/",
             "id": 25541186,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-02T15:05:57Z",
+            "open_issues": 0,
             "owner": "franciscop",
             "repo": "umbrella",
-            "stars": 2345
+            "stars": 2345,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         }
@@ -144,12 +250,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🥊 Tiny 200 byte functional event emitter / pubsub.",
+            "homepage": "https://npm.im/mitt",
             "id": 78983309,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-08-14T08:58:20Z",
+            "open_issues": 27,
             "owner": "developit",
             "repo": "mitt",
-            "stars": 11902
+            "stars": 11901,
+            "topics": [
+              "event",
+              "event-bus",
+              "event-handlers",
+              "event-listener",
+              "eventemitter",
+              "mitt",
+              "pubsub",
+              "tiny"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -160,12 +280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and tiny (107 bytes) event emitter library for JavaScript",
+            "homepage": null,
             "id": 68678413,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-22T18:00:05Z",
+            "open_issues": 0,
             "owner": "ai",
             "repo": "nanoevents",
-            "stars": 1635
+            "stars": 1635,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -176,12 +301,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":gun: onfire.js is a nano version (~500b) for event-emitter.",
+            "homepage": "https://github.com/hustcc/onfire.js",
             "id": 63400051,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-04-22T01:33:25Z",
+            "open_issues": 0,
             "owner": "hustcc",
             "repo": "onfire.js",
-            "stars": 496
+            "stars": 496,
+            "topics": [
+              "emitter",
+              "event-dispatcher",
+              "event-emitter",
+              "onfire"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         }
@@ -198,12 +333,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐻 Bear necessities for state management in React",
+            "homepage": "https://zustand-demo.pmnd.rs/",
             "id": 180328715,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T23:00:49Z",
+            "open_issues": 5,
             "owner": "pmndrs",
             "repo": "zustand",
-            "stars": 58626
+            "stars": 58626,
+            "topics": [
+              "hacktoberfest",
+              "hooks",
+              "react",
+              "react-context",
+              "reactjs",
+              "redux",
+              "state-management"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -214,12 +362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny (340 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores",
+            "homepage": null,
             "id": 304120355,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T10:06:15Z",
+            "open_issues": 21,
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7582
+            "stars": 7582,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -230,12 +383,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌶 350b / 650b state container with component actions for Preact & React",
+            "homepage": "https://npm.im/unistore",
             "id": 113351554,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-06-07T10:00:27Z",
+            "open_issues": 46,
             "owner": "developit",
             "repo": "unistore",
-            "stars": 2846
+            "stars": 2846,
+            "topics": [
+              "architecture",
+              "preact",
+              "redux",
+              "state",
+              "subscription",
+              "unistore"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -246,12 +411,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌩 A tiny (185 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte",
+            "homepage": "https://evilmartians.com/chronicles/storeon-redux-in-173-bytes",
             "id": 175927747,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-10T17:42:24Z",
+            "open_issues": 15,
             "owner": "storeon",
             "repo": "storeon",
-            "stars": 1976
+            "stars": 1976,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -262,12 +432,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍵 Tiny, easy and powerful React state management",
+            "homepage": "https://npm.im/teaful",
             "id": 346826188,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-09T19:40:58Z",
+            "open_issues": 18,
             "owner": "teafuljs",
             "repo": "teaful",
-            "stars": 712
+            "stars": 712,
+            "topics": [
+              "easy",
+              "fragmented",
+              "javascript",
+              "management",
+              "performance",
+              "preact",
+              "react",
+              "state",
+              "state-management",
+              "store",
+              "teaful",
+              "tiny"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -278,12 +466,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔅 State manager for deeply nested states",
+            "homepage": "https://exome.js.org",
             "id": 353644602,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-29T08:05:12Z",
+            "open_issues": 1,
             "owner": "Marcisbee",
             "repo": "exome",
-            "stars": 281
+            "stars": 281,
+            "topics": [
+              "exome",
+              "javascript",
+              "js",
+              "react",
+              "state",
+              "state-management",
+              "state-manager",
+              "state-tree",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -296,12 +499,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage state with style in every framework",
+                "homepage": "https://preactjs.com/blog/introducing-signals/",
                 "id": 522712696,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T04:13:17Z",
+                "open_issues": 42,
                 "owner": "preactjs",
                 "repo": "signals",
-                "stars": 4476
+                "stars": 4476,
+                "topics": [
+                  "preact",
+                  "react",
+                  "reactivity",
+                  "signals",
+                  "state-management"
+                ]
               },
               "first_seen": "2026-08-29T01:48:10.109Z"
             },
@@ -312,12 +526,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A super tiny reactive library. :zap:",
+                "homepage": null,
                 "id": 115869903,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-21T12:11:10Z",
+                "open_issues": 8,
                 "owner": "elbywan",
                 "repo": "hyperactiv",
-                "stars": 446
+                "stars": 446,
+                "topics": [
+                  "computed",
+                  "es6-proxies",
+                  "javascript",
+                  "properties",
+                  "react",
+                  "reactive"
+                ]
               },
               "first_seen": "2026-08-29T01:48:10.109Z"
             },
@@ -328,12 +554,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A blend of @preact/signals-core and solid-js basic reactivity API",
+                "homepage": null,
                 "id": 534546174,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2026-05-28T15:06:05Z",
+                "open_issues": 1,
                 "owner": "WebReflection",
                 "repo": "usignal",
-                "stars": 268
+                "stars": 268,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:48:10.109Z"
             },
@@ -344,12 +575,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A single-file <1kb min+gzip simplified implementation of the reactive core of Solid, optimized for clean code.",
+                "homepage": null,
                 "id": 524419194,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-17T21:10:40Z",
+                "open_issues": 1,
                 "owner": "fabiospampinato",
                 "repo": "flimsy",
-                "stars": 193
+                "stars": 193,
+                "topics": [
+                  "reactivity",
+                  "simple",
+                  "solid",
+                  "tiny"
+                ]
               },
               "first_seen": "2026-08-29T01:48:10.109Z"
             }
@@ -367,12 +608,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👜 Tiny and fast reactive/iterable programming library",
+                "homepage": null,
                 "id": 119371155,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-04-20T06:28:40Z",
+                "open_issues": 8,
                 "owner": "staltz",
                 "repo": "callbag-basics",
-                "stars": 1652
+                "stars": 1652,
+                "topics": [
+                  "callbacks",
+                  "callbag",
+                  "iterables",
+                  "observables",
+                  "reactive"
+                ]
               },
               "first_seen": "2026-08-29T01:48:10.109Z"
             },
@@ -383,12 +635,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The minimalistic but powerful, modular, functional reactive programming library in JavaScript.",
+                "homepage": null,
                 "id": 31337555,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-05T20:10:57Z",
+                "open_issues": 55,
                 "owner": "paldepind",
                 "repo": "flyd",
-                "stars": 1565
+                "stars": 1565,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:48:10.109Z"
             }
@@ -410,12 +667,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🥢 A minimalist-friendly ~2.2KB routing for React and Preact",
+            "homepage": "https://npm.im/wouter",
             "id": 180418592,
             "language": "TypeScript",
+            "license": "Unlicense",
             "last_commit": "2026-08-21T16:12:40Z",
+            "open_issues": 30,
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7867
+            "stars": 7867,
+            "topics": [
+              "hacktoberfest",
+              "microlibrary",
+              "preact",
+              "react",
+              "react-hooks",
+              "react-router",
+              "router",
+              "typescript",
+              "zero-dependency"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -426,12 +698,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A navigation aid (aka, router) for the browser in 850 bytes~!",
+            "homepage": null,
             "id": 138140611,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-20T17:33:27Z",
+            "open_issues": 7,
             "owner": "lukeed",
             "repo": "navaid",
-            "stars": 796
+            "stars": 796,
+            "topics": [
+              "browser",
+              "client-side",
+              "history",
+              "navigation",
+              "router"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -442,12 +725,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny (673 bytes) router for Nano Stores state manager",
+            "homepage": null,
             "id": 379767706,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-23T11:37:41Z",
+            "open_issues": 4,
             "owner": "nanostores",
             "repo": "router",
-            "stars": 326
+            "stars": 326,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -458,12 +746,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny (394B) utility that converts route patterns into RegExp. Limited alternative to `path-to-regexp` 🙇‍♂️",
+            "homepage": null,
             "id": 128681730,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-12-03T21:39:16Z",
+            "open_issues": 9,
             "owner": "lukeed",
             "repo": "regexparam",
-            "stars": 597
+            "stars": 597,
+            "topics": [
+              "path-to-regexp",
+              "regex",
+              "regexp",
+              "router"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -474,12 +772,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny (294b) browser utility for encoding & decoding a querystring.",
+            "homepage": null,
             "id": 107940612,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-10T01:59:28Z",
+            "open_issues": 5,
             "owner": "lukeed",
             "repo": "qss",
-            "stars": 452
+            "stars": 452,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -490,12 +793,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quickly parse & match URLs",
+            "homepage": null,
             "id": 109605518,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-11-03T06:37:51Z",
+            "open_issues": 3,
             "owner": "lukeed",
             "repo": "matchit",
-            "stars": 323
+            "stars": 323,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         }
@@ -512,12 +820,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny wrapper built around fetch with an intuitive syntax. :candy:",
+            "homepage": null,
             "id": 103435985,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-19T06:54:58Z",
+            "open_issues": 10,
             "owner": "elbywan",
             "repo": "wretch",
-            "stars": 5178
+            "stars": 5178,
+            "topics": [
+              "ajax",
+              "fetch",
+              "formdata",
+              "http",
+              "http-client",
+              "http-request",
+              "javascript",
+              "json",
+              "nodejs",
+              "promise",
+              "request",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -528,12 +854,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Axios API, as an 800 byte Fetch wrapper.",
+            "homepage": "https://npm.im/redaxios",
             "id": 145911559,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-15T22:45:22Z",
+            "open_issues": 34,
             "owner": "developit",
             "repo": "redaxios",
-            "stars": 4881
+            "stars": 4881,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -544,12 +875,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Making fetch happen in TypeScript.",
+            "homepage": "https://www.truework.com/labs",
             "id": 234645034,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-10-05T02:58:31Z",
+            "open_issues": 17,
             "owner": "truework",
             "repo": "gretchen",
-            "stars": 328
+            "stars": 328,
+            "topics": [
+              "fetch",
+              "http",
+              "http-client",
+              "micro",
+              "request",
+              "tiny",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -560,12 +904,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐕 Bare minimum 500b fetch polyfill.",
+            "homepage": "https://npm.im/unfetch",
             "id": 82766832,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-07-23T07:46:45Z",
+            "open_issues": 30,
             "owner": "developit",
             "repo": "unfetch",
-            "stars": 5699
+            "stars": 5699,
+            "topics": [
+              "ajax",
+              "fetch",
+              "polyfill",
+              "ponyfill",
+              "tiny",
+              "unfetch",
+              "xmlhttprequest"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         }
@@ -582,12 +939,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌍 📖 A readable, automated, and optimized (2 kb) internationalization for JavaScript",
+            "homepage": "https://lingui.dev",
             "id": 79252808,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-14T09:54:25Z",
+            "open_issues": 66,
             "owner": "lingui",
             "repo": "js-lingui",
-            "stars": 5862
+            "stars": 5862,
+            "topics": [
+              "hacktoberfest",
+              "i18n",
+              "icu",
+              "internationalization",
+              "intl",
+              "javascript",
+              "localization",
+              "messageformat",
+              "react",
+              "react-components",
+              "react-native",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -598,12 +973,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A general purpose internationalization library in 292 bytes",
+            "homepage": null,
             "id": 248382483,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-20T17:17:37Z",
+            "open_issues": 6,
             "owner": "lukeed",
             "repo": "rosetta",
-            "stars": 797
+            "stars": 797,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -614,12 +994,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌏Internationalize React apps 👔Elegant lightweight library based on Internationalization API",
+            "homepage": "https://eo-locale.netlify.app/",
             "id": 132908162,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-12-10T20:29:42Z",
+            "open_issues": 14,
             "owner": "ibitcy",
             "repo": "eo-locale",
-            "stars": 347
+            "stars": 347,
+            "topics": [
+              "globalization",
+              "hacktoberfest",
+              "i18n",
+              "i18next",
+              "icu",
+              "internationalization",
+              "intl",
+              "localization",
+              "messageformat",
+              "preact",
+              "react",
+              "react-components",
+              "react-hooks",
+              "react-intl",
+              "reactjs",
+              "reactjs-components",
+              "tiny",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -630,12 +1034,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny (≈600 bytes) i18n library for React/Preact/Vue/Svelte",
+            "homepage": null,
             "id": 420559291,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-23T11:34:27Z",
+            "open_issues": 5,
             "owner": "nanostores",
             "repo": "i18n",
-            "stars": 305
+            "stars": 305,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         }
@@ -652,12 +1061,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API",
+            "homepage": "https://day.js.org",
             "id": 128907699,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T04:15:17Z",
+            "open_issues": 1306,
             "owner": "iamkun",
             "repo": "dayjs",
-            "stars": 48667
+            "stars": 48666,
+            "topics": [
+              "date",
+              "date-formatting",
+              "datetime",
+              "dayjs",
+              "moment",
+              "time"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -668,12 +1089,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⏳ Modern JavaScript date utility library ⌛️",
+            "homepage": "https://date-fns.org",
             "id": 24841635,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-10T08:47:59Z",
+            "open_issues": 1002,
             "owner": "date-fns",
             "repo": "date-fns",
-            "stars": 36642
+            "stars": 36641,
+            "topics": [
+              "date",
+              "date-fns",
+              "hacktoberfest",
+              "javascript",
+              "modules",
+              "nodejs",
+              "time",
+              "utilities"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -684,12 +1119,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny millisecond conversion utility",
+            "homepage": "https://npmjs.com/ms",
             "id": 3655872,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-20T22:24:50Z",
+            "open_issues": 37,
             "owner": "vercel",
             "repo": "ms",
-            "stars": 5544
+            "stars": 5544,
+            "topics": [
+              "conversion",
+              "milliseconds",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -700,12 +1144,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.",
+            "homepage": "https://timeago.ling.pub",
             "id": 61765411,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-30T01:08:09Z",
+            "open_issues": 9,
             "owner": "hustcc",
             "repo": "timeago.js",
-            "stars": 5372
+            "stars": 5372,
+            "topics": [
+              "date-format",
+              "datetime",
+              "i18n",
+              "multi-language",
+              "real-time",
+              "timeago",
+              "tiny"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -716,12 +1173,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⏰ A straightforward date and time formatter in <1kb",
+            "homepage": null,
             "id": 79506115,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-12T05:12:08Z",
+            "open_issues": 19,
             "owner": "aweary",
             "repo": "tinytime",
-            "stars": 1323
+            "stars": 1323,
+            "topics": [
+              "date",
+              "template",
+              "time"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -732,12 +1198,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny (349B) reusable date formatter. Extremely fast!",
+            "homepage": "https://jsfiddle.net/lukeed/aoy0xeze/",
             "id": 89977123,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-20T17:52:53Z",
+            "open_issues": 2,
             "owner": "lukeed",
             "repo": "tinydate",
-            "stars": 1067
+            "stars": 1067,
+            "topics": [
+              "date",
+              "datetime",
+              "format",
+              "javascript",
+              "time",
+              "timestamp"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -748,12 +1226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny (339B) utility for human-readable time differences between now and past or future dates.",
+            "homepage": null,
             "id": 25562629,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-07-08T19:03:15Z",
+            "open_issues": 2,
             "owner": "lukeed",
             "repo": "fromnow",
-            "stars": 187
+            "stars": 187,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -764,12 +1247,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get a formatted timestamp. Used in gulp, assemble, generate, and many others.",
+            "homepage": "https://github.com/jonschlinkert",
             "id": 34895918,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-11-24T06:02:18Z",
+            "open_issues": 8,
             "owner": "jonschlinkert",
             "repo": "time-stamp",
-            "stars": 109
+            "stars": 109,
+            "topics": [
+              "date",
+              "datetime",
+              "days",
+              "format",
+              "hours",
+              "javascript",
+              "minutes",
+              "node",
+              "nodejs",
+              "time",
+              "time-stamp",
+              "timestamp",
+              "year"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         }
@@ -786,12 +1288,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library of dependency-free JavaScript utilities that do just one thing.",
+            "homepage": "https://anguscroll.com/just",
             "id": 61969625,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-11T12:23:37Z",
+            "open_issues": 58,
             "owner": "angus-c",
             "repo": "just",
-            "stars": 6202
+            "stars": 6202,
+            "topics": [
+              "dependency-free",
+              "javascript",
+              "library",
+              "pwa",
+              "tiny",
+              "typescript",
+              "utilities",
+              "utils"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -802,12 +1318,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A utility library for JavaScript and TypeScript.",
+            "homepage": "http://remedajs.com",
             "id": 132434056,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T13:42:33Z",
+            "open_issues": 15,
             "owner": "remeda",
             "repo": "remeda",
-            "stars": 5420
+            "stars": 5420,
+            "topics": [
+              "functional",
+              "programming",
+              "typescript",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -818,12 +1344,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Typescript focused FP library similar to Remeda and Ramda",
+            "homepage": "https://selfrefactor.github.io/rambda/",
             "id": 79035508,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T13:58:08Z",
+            "open_issues": 1,
             "owner": "selfrefactor",
             "repo": "rambda",
-            "stars": 1754
+            "stars": 1754,
+            "topics": [
+              "fp",
+              "functional",
+              "functional-programming",
+              "functions",
+              "lodash",
+              "ramda",
+              "typescript",
+              "utility",
+              "utils"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -834,12 +1375,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A functional programming library for TypeScript/JavaScript",
+            "homepage": "https://fxts.dev",
             "id": 411941706,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T14:05:49Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:47:12Z",
+            "open_issues": 8,
             "owner": "marpple",
             "repo": "FxTS",
-            "stars": 1167
+            "stars": 1167,
+            "topics": [
+              "concurrency",
+              "fp",
+              "javascript",
+              "lazy",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         }
@@ -856,12 +1408,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The modular and type safe schema library for validating structural data 🤖",
+            "homepage": "https://valibot.dev",
             "id": 663456281,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T09:03:59Z",
+            "open_issues": 175,
             "owner": "open-circle",
             "repo": "valibot",
-            "stars": 8969
+            "stars": 8969,
+            "topics": [
+              "bundle-size",
+              "form-validation",
+              "modular",
+              "parsing",
+              "runtime",
+              "runtime-validation",
+              "schema",
+              "schema-validation",
+              "standard-schema",
+              "type-inference",
+              "type-safe",
+              "typescript",
+              "validation",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -872,12 +1444,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple and composable way to validate data in JavaScript (and TypeScript).",
+            "homepage": "https://docs.superstructjs.org",
             "id": 111756715,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-01T02:42:53Z",
+            "open_issues": 104,
             "owner": "ianstormtaylor",
             "repo": "superstruct",
-            "stars": 7134
+            "stars": 7134,
+            "topics": [
+              "interface",
+              "javascript",
+              "schema",
+              "structs",
+              "types",
+              "typescript",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -888,12 +1473,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☑️ JavaScript fluent validation library",
+            "homepage": "https://imbrn.github.io/v8n",
             "id": 138644245,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-01-01T14:55:40Z",
+            "open_issues": 0,
             "owner": "imbrn",
             "repo": "v8n",
-            "stars": 4143
+            "stars": 4143,
+            "topics": [
+              "javascript",
+              "library",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -904,12 +1498,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥Deep Waters is an easy-to-compose functional validation system for javascript developers 🔥",
+            "homepage": "https://antonioru.gitbook.io/deep-waters/",
             "id": 258799930,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-06T04:26:32Z",
+            "open_issues": 16,
             "owner": "antonioru",
             "repo": "deep-waters",
-            "stars": 202
+            "stars": 202,
+            "topics": [
+              "deep-waters",
+              "functional",
+              "functional-programming",
+              "javascript",
+              "nodejs",
+              "validation",
+              "validation-library",
+              "validators"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -920,12 +1528,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤠🧨 The mighty 400-byte schema validator for TS / JS",
+            "homepage": null,
             "id": 606856825,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-08T13:04:02Z",
+            "open_issues": 3,
             "owner": "thoughtspile",
             "repo": "banditypes",
-            "stars": 183
+            "stars": 183,
+            "topics": [
+              "javascript",
+              "runtime-validation",
+              "schema",
+              "typescript",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         }
@@ -942,12 +1561,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript",
+            "homepage": "https://zelark.github.io/nano-id-cc/",
             "id": 99401299,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T20:13:57Z",
+            "open_issues": 0,
             "owner": "ai",
             "repo": "nanoid",
-            "stars": 26953
+            "stars": 26953,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -958,12 +1582,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny (130B to 205B) and fast utility to generate random IDs of fixed length",
+            "homepage": null,
             "id": 244573944,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-27T06:12:32Z",
+            "open_issues": 2,
             "owner": "lukeed",
             "repo": "uid",
-            "stars": 667
+            "stars": 667,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -974,12 +1603,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny (~230B)and fast UUID (V4) generator for Node and the browser",
+            "homepage": null,
             "id": 243721767,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-27T06:13:03Z",
+            "open_issues": 5,
             "owner": "lukeed",
             "repo": "uuid",
-            "stars": 409
+            "stars": 409,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -990,12 +1624,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny (190B) and extremely fast utility to generate random IDs of fixed length",
+            "homepage": null,
             "id": 244595006,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-04T01:17:07Z",
+            "open_issues": 2,
             "owner": "lukeed",
             "repo": "hexoid",
-            "stars": 205
+            "stars": 205,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         }
@@ -1012,12 +1651,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny script for generating attractive colors",
+            "homepage": null,
             "id": 18573791,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2025-12-03T08:17:42Z",
+            "open_issues": 16,
             "owner": "davidmerfield",
             "repo": "randomColor",
-            "stars": 6124
+            "stars": 6124,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -1028,12 +1672,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👑 A tiny yet powerful tool for high-performance color manipulations and conversions",
+            "homepage": "https://colord.omgovich.ru",
             "id": 316474381,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T09:43:33Z",
+            "open_issues": 24,
             "owner": "omgovich",
             "repo": "colord",
-            "stars": 1886
+            "stars": 1886,
+            "topics": [
+              "a11y",
+              "color",
+              "color-names",
+              "converter",
+              "css-color",
+              "hacktoberfest",
+              "hex",
+              "hsl",
+              "hsv",
+              "hwb",
+              "lab",
+              "lch",
+              "parser",
+              "rgb",
+              "tiny",
+              "xyz",
+              "zero-dependency"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -1044,12 +1711,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎨 Easy color manipulation in ~2kb (gzipped)",
+            "homepage": null,
             "id": 85709336,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2018-02-11T02:12:26Z",
+            "open_issues": 6,
             "owner": "cdonohue",
             "repo": "polychrome",
-            "stars": 288
+            "stars": 288,
+            "topics": [
+              "color",
+              "color-manipulation",
+              "css-color",
+              "css-in-js",
+              "immutable",
+              "palette",
+              "tiny"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -1060,12 +1740,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and simple color conversion.",
+            "homepage": null,
             "id": 23218282,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-05-07T13:47:26Z",
+            "open_issues": 1,
             "owner": "stayradiated",
             "repo": "colr",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         }
@@ -1082,12 +1767,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Super tiny size multi-touch gestures library for the web. 　　　You can touch this →",
+            "homepage": "http://alloyteam.github.io/AlloyFinger/",
             "id": 59704101,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-01-03T07:05:23Z",
+            "open_issues": 77,
             "owner": "AlloyTeam",
             "repo": "AlloyFinger",
-            "stars": 3438
+            "stars": 3438,
+            "topics": [
+              "alloyfinger",
+              "finger",
+              "gesture",
+              "touch"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -1098,12 +1793,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Very small gesture recognizer for JavaScript. Swipe, pan, tap, doubletap, longpress, pinch, and rotate. (Mirror of https://forge.sciactive.com/sciactive/tinygesture)",
+            "homepage": "https://sciactive.github.io/tinygesture/",
             "id": 147753039,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-04T09:53:33Z",
+            "open_issues": 2,
             "owner": "sciactive",
             "repo": "tinygesture",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "double-tap",
+              "events",
+              "gesture",
+              "gesture-recognition",
+              "gesture-recognizer",
+              "javascript",
+              "long-press",
+              "pan",
+              "pinch",
+              "rotate",
+              "swipe",
+              "tap",
+              "touch"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -1114,12 +1828,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detect if a device is mouseOnly, touchOnly, or hybrid, and if the primary input is mouse or touch.",
+            "homepage": "https://detect-it.rafgraph.dev",
             "id": 62772291,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-05-02T04:03:45Z",
+            "open_issues": 1,
             "owner": "rafgraph",
             "repo": "detect-it",
-            "stars": 434
+            "stars": 434,
+            "topics": [
+              "device-detection",
+              "device-responsive-ux",
+              "device-type-detection",
+              "event-listeners",
+              "passive-events",
+              "pointer-events",
+              "responsive-web-design",
+              "touch-device",
+              "touch-device-detection",
+              "touch-events"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -1130,12 +1860,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Track mouse/touch/pointer events for a given element.",
+            "homepage": null,
             "id": 152469265,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-24T08:30:28Z",
+            "open_issues": 9,
             "owner": "GoogleChromeLabs",
             "repo": "pointer-tracker",
-            "stars": 191
+            "stars": 191,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         }
@@ -1152,12 +1887,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":ocean: Blazing fast 1kb search library",
+            "homepage": null,
             "id": 91927089,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-05-13T08:18:33Z",
+            "open_issues": 7,
             "owner": "kbrsh",
             "repo": "wade",
-            "stars": 2956
+            "stars": 2956,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -1168,12 +1908,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JS Search is an efficient, client-side search library for JavaScript and JSON objects",
+            "homepage": "http://bvaughn.github.io/js-search/",
             "id": 39978723,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-05-12T13:18:33Z",
+            "open_issues": 8,
             "owner": "bvaughn",
             "repo": "js-search",
-            "stars": 2217
+            "stars": 2217,
+            "topics": [
+              "database",
+              "indexing",
+              "performance",
+              "search"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -1184,12 +1934,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, index-free full-text search for JavaScript",
+            "homepage": "https://thesephist.github.io/libsearch/",
             "id": 497538643,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-07-21T21:47:04Z",
+            "open_issues": 1,
             "owner": "thesephist",
             "repo": "libsearch",
-            "stars": 388
+            "stars": 388,
+            "topics": [
+              "full-text-search",
+              "npm-package",
+              "search"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -1200,12 +1959,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":mag: Full text indexing and searching library",
+            "homepage": null,
             "id": 71558507,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-15T07:40:24Z",
+            "open_issues": 1,
             "owner": "localvoid",
             "repo": "ndx",
-            "stars": 157
+            "stars": 157,
+            "topics": [
+              "full-text-search",
+              "inverted-index",
+              "javascript",
+              "search-engine",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -1216,12 +1986,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast Porter stemmer implementation",
+            "homepage": "https://words.github.io/stemmer/",
             "id": 20812517,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-11-02T09:46:58Z",
+            "open_issues": 0,
             "owner": "words",
             "repo": "stemmer",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "natural-language",
+              "porter",
+              "stemmer",
+              "stemming"
+            ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -1232,12 +2012,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Martin Porter's stemmer for node.js",
+            "homepage": null,
             "id": 1638824,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-09-30T14:07:33Z",
+            "open_issues": 4,
             "owner": "jedp",
             "repo": "porter-stemmer",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
         },
@@ -1250,12 +2035,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":crystal_ball: Tiny and blazing-fast fuzzy search in JavaScript",
+                "homepage": "https://ponyfoo.com",
                 "id": 31618003,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-05-31T04:51:39Z",
+                "open_issues": 5,
                 "owner": "bevacqua",
                 "repo": "fuzzysearch",
-                "stars": 2742
+                "stars": 2742,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:48:10.109Z"
             },
@@ -1266,12 +2056,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Filters a list based on a fuzzy string search",
+                "homepage": null,
                 "id": 5054664,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-12-20T07:11:22Z",
+                "open_issues": 29,
                 "owner": "mattyork",
                 "repo": "fuzzy",
-                "stars": 835
+                "stars": 835,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:48:10.109Z"
             },
@@ -1282,12 +2077,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":sweat_drops::metal: A mimetic poly-alloy of the Quicksilver scoring algorithm, essentially LiquidMetal. </Schwarzenegger Voice>",
+                "homepage": null,
                 "id": 122759,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-06-17T02:10:02Z",
+                "open_issues": 1,
                 "owner": "rmm5t",
                 "repo": "liquidmetal",
-                "stars": 293
+                "stars": 293,
+                "topics": [
+                  "fuzzy-matching",
+                  "fuzzy-search",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-29T01:48:10.109Z"
             },
@@ -1298,12 +2102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple fuzzy search",
+                "homepage": null,
                 "id": 56446229,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2023-03-14T23:52:27Z",
+                "open_issues": 16,
                 "owner": "wouterrutgers",
                 "repo": "fuzzy-search",
-                "stars": 229
+                "stars": 229,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:48:10.109Z"
             },
@@ -1314,12 +2123,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JavaScript string-scoring and fuzzy-matching library based on the Quicksilver algorithm, designed for smart auto-complete.",
+                "homepage": null,
                 "id": 140979808,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-08T15:45:37Z",
+                "open_issues": 6,
                 "owner": "fwextensions",
                 "repo": "quick-score",
-                "stars": 164
+                "stars": 164,
+                "topics": [
+                  "auto-complete",
+                  "fuzzy-search",
+                  "quicksilver",
+                  "smart-sort",
+                  "string-scoring"
+                ]
               },
               "first_seen": "2026-08-29T01:48:10.109Z"
             },
@@ -1330,12 +2150,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A javascript port of fzy's scoring algorithm. As seen on GitHub.com!",
+                "homepage": null,
                 "id": 156036039,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-09-24T04:40:11Z",
+                "open_issues": 2,
                 "owner": "jhawthorn",
                 "repo": "fzy.js",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "fuzzy",
+                  "fuzzy-search",
+                  "fuzzyfinder",
+                  "fzy"
+                ]
               },
               "first_seen": "2026-08-29T01:48:10.109Z"
             },
@@ -1346,12 +2176,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fuzzyset.js - A fuzzy string set for javascript",
+                "homepage": "http://glench.github.io/fuzzyset.js/",
                 "id": 7334683,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2021-12-13T18:44:00Z",
+                "open_issues": 1,
                 "owner": "Glench",
                 "repo": "fuzzyset.js",
-                "stars": 1375
+                "stars": 1375,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:48:10.109Z"
             }
@@ -1365,15 +2200,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:48:10.109Z",
+    "last_updated": "2026-08-29T04:42:42.958Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet",
+      "homepage": null,
       "id": 608234505,
       "language": "JavaScript",
+      "license": "CC0-1.0",
       "last_commit": "2024-09-24T10:21:03Z",
+      "open_issues": 5,
       "owner": "thoughtspile",
       "repo": "awesome-tiny-js",
-      "stars": 778
+      "stars": 778,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "javascript",
+        "tiny",
+        "typescript"
+      ]
     },
     "original_repository_sha": "f49d74e245824eb1194a01636b8dd3b0904d347c",
     "enhanced_repository": "enhansome/enhansome-tiny-js",

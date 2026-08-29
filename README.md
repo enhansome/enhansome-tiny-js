@@ -59,7 +59,7 @@ And if being declarative is not your thing:
 
 Event emitter pattern is fairly easy to implement yourself, but why bother when you have these cool tools? With an arms race to build the smallest one, the limit is 0.5 kB.
 
-* [mitt](https://github.com/developit/mitt) ⭐ 11,902 | 🐛 27 | 🌐 TypeScript | 📅 2024-08-14 - Plain event emitter that I use on most projects, <img align="top" height="24" src="./img/mitt.svg">
+* [mitt](https://github.com/developit/mitt) ⭐ 11,901 | 🐛 27 | 🌐 TypeScript | 📅 2024-08-14 - Plain event emitter that I use on most projects, <img align="top" height="24" src="./img/mitt.svg">
 * [nanoevents](https://github.com/ai/nanoevents) ⭐ 1,635 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-22 - Nicer unsubscribe API, but no `*` event, <img align="top" height="24" src="./img/nanoevents.svg">
 * [onfire.js](https://github.com/hustcc/onfire.js) ⭐ 496 | 🐛 0 | 🌐 TypeScript | 📅 2019-04-22 - Also has `.once` method, <img align="top" height="24" src="./img/onfirejs.svg">
 
@@ -131,8 +131,8 @@ A map of strings might seem enough to translate an app, but these tools also han
 
 Date and time manipulation in pure JS is verbose. Luckily, two of the top date libraries have sensible size:
 
-* [dayjs](https://github.com/iamkun/dayjs) ⭐ 48,667 | 🐛 1,306 | 🌐 JavaScript | 📅 2026-08-18 - *Almost* moment.js-compatible API, covers most use cases, <img align="top" height="24" src="./img/dayjsesm.svg">
-* [date-fns](https://github.com/date-fns/date-fns/) ⭐ 36,642 | 🐛 1,002 | 🌐 TypeScript | 📅 2026-08-10 - Not tiny as a whole, but [most functions](https://bundlephobia.com/package/date-fns) are under 1 kB each (format and parse are quite heavy).
+* [dayjs](https://github.com/iamkun/dayjs) ⭐ 48,666 | 🐛 1,306 | 🌐 JavaScript | 📅 2026-08-18 - *Almost* moment.js-compatible API, covers most use cases, <img align="top" height="24" src="./img/dayjsesm.svg">
+* [date-fns](https://github.com/date-fns/date-fns/) ⭐ 36,641 | 🐛 1,002 | 🌐 TypeScript | 📅 2026-08-10 - Not tiny as a whole, but [most functions](https://bundlephobia.com/package/date-fns) are under 1 kB each (format and parse are quite heavy).
 
 And some more packages that only do formatting:
 
@@ -152,9 +152,9 @@ Something you'd find in lodash or ramda, but smaller. Most are pretty similar an
 * [just](https://github.com/angus-c/just) ⭐ 6,202 | 🐛 58 | 🌐 JavaScript | 📅 2024-02-11 - 82 helpers in separate packages [(list).](https://anguscroll.com/just/)
 * [remeda](https://github.com/remeda/remeda) ⭐ 5,420 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-26 - 90 tree-shakable helpers [(list).](https://bundlephobia.com/package/remeda)
 * [rambda](https://github.com/selfrefactor/rambda) ⭐ 1,754 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-13 - 187 tree-shakable helpers [(list).](https://bundlephobia.com/package/rambda)
-* [@fxts/core](https://github.com/marpple/FxTS) ⭐ 1,167 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-08 - 96 tree-shakable helpers. Lazy evaluation support.
+* [@fxts/core](https://github.com/marpple/FxTS) ⭐ 1,167 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-29 - 96 tree-shakable helpers. Lazy evaluation support.
 
-Honorable mention: [underscore,](https://github.com/jashkenas/underscore) ⭐ 27,329 | 🐛 52 | 🌐 JavaScript | 📅 2026-08-12 contains many sub-1 kB helpers. It does not tree-shake as well as the libraries above due to codebase structure.
+Honorable mention: [underscore,](https://github.com/jashkenas/underscore) ⭐ 27,328 | 🐛 52 | 🌐 JavaScript | 📅 2026-08-12 contains many sub-1 kB helpers. It does not tree-shake as well as the libraries above due to codebase structure.
 
 Note: lodash itself is not tree-shakable, but has made many attempts at modulaity with `lodash.method` packages, imports from `lodash/method`, and `lodash-es`, none of which work well in practice.
 
