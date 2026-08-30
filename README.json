@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "preactjs",
             "repo": "preact",
-            "stars": 38844,
+            "stars": 38845,
             "topics": [
               "components",
               "dom",
@@ -74,7 +74,7 @@
             "open_issues": 9,
             "owner": "redom",
             "repo": "redom",
-            "stars": 3432,
+            "stars": 3433,
             "topics": [
               "dom",
               "html5",
@@ -102,7 +102,7 @@
             "open_issues": 40,
             "owner": "vanjs-org",
             "repo": "van",
-            "stars": 4423,
+            "stars": 4424,
             "topics": [
               "data-binding",
               "dom",
@@ -259,7 +259,7 @@
             "open_issues": 27,
             "owner": "developit",
             "repo": "mitt",
-            "stars": 11901,
+            "stars": 11902,
             "topics": [
               "event",
               "event-bus",
@@ -371,7 +371,7 @@
             "open_issues": 21,
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7584,
+            "stars": 7587,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
@@ -508,7 +508,7 @@
                 "open_issues": 44,
                 "owner": "preactjs",
                 "repo": "signals",
-                "stars": 4477,
+                "stars": 4478,
                 "topics": [
                   "preact",
                   "react",
@@ -525,7 +525,7 @@
               "description": "4 functions to make objects observable and listen to changes,",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "A super tiny reactive library. :zap:",
                 "homepage": null,
                 "id": 115869903,
@@ -676,7 +676,7 @@
             "open_issues": 30,
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7868,
+            "stars": 7869,
             "topics": [
               "hacktoberfest",
               "microlibrary",
@@ -948,7 +948,7 @@
             "open_issues": 66,
             "owner": "lingui",
             "repo": "js-lingui",
-            "stars": 5862,
+            "stars": 5863,
             "topics": [
               "hacktoberfest",
               "i18n",
@@ -1070,7 +1070,7 @@
             "open_issues": 1307,
             "owner": "iamkun",
             "repo": "dayjs",
-            "stars": 48665,
+            "stars": 48664,
             "topics": [
               "date",
               "date-formatting",
@@ -1094,11 +1094,11 @@
             "id": 24841635,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-08-10T08:47:59Z",
+            "last_commit": "2026-08-30T01:05:02Z",
             "open_issues": 1002,
             "owner": "date-fns",
             "repo": "date-fns",
-            "stars": 36642,
+            "stars": 36644,
             "topics": [
               "date",
               "date-fns",
@@ -1323,7 +1323,7 @@
             "id": 132434056,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-26T13:42:33Z",
+            "last_commit": "2026-08-30T13:34:44Z",
             "open_issues": 15,
             "owner": "remeda",
             "repo": "remeda",
@@ -1417,7 +1417,7 @@
             "open_issues": 176,
             "owner": "open-circle",
             "repo": "valibot",
-            "stars": 8972,
+            "stars": 8973,
             "topics": [
               "bundle-size",
               "form-validation",
@@ -1453,7 +1453,7 @@
             "open_issues": 104,
             "owner": "ianstormtaylor",
             "repo": "superstruct",
-            "stars": 7134,
+            "stars": 7133,
             "topics": [
               "interface",
               "javascript",
@@ -2200,7 +2200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:01:15.515Z",
+    "last_updated": "2026-08-30T21:16:13.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet",
