@@ -19,7 +19,7 @@
             "open_issues": 39,
             "owner": "preactjs",
             "repo": "preact",
-            "stars": 38876,
+            "stars": 38875,
             "topics": [
               "components",
               "dom",
@@ -102,7 +102,7 @@
             "open_issues": 40,
             "owner": "vanjs-org",
             "repo": "van",
-            "stars": 4434,
+            "stars": 4435,
             "topics": [
               "data-binding",
               "dom",
@@ -177,7 +177,7 @@
             "open_issues": 7,
             "owner": "standardagents",
             "repo": "arrow-js",
-            "stars": 3760,
+            "stars": 3761,
             "topics": [
               "declarative",
               "reactive",
@@ -342,7 +342,7 @@
             "open_issues": 7,
             "owner": "pmndrs",
             "repo": "zustand",
-            "stars": 58704,
+            "stars": 58708,
             "topics": [
               "hacktoberfest",
               "hooks",
@@ -676,7 +676,7 @@
             "open_issues": 23,
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7897,
+            "stars": 7898,
             "topics": [
               "hacktoberfest",
               "microlibrary",
@@ -829,7 +829,7 @@
             "open_issues": 12,
             "owner": "elbywan",
             "repo": "wretch",
-            "stars": 5173,
+            "stars": 5174,
             "topics": [
               "ajax",
               "fetch",
@@ -945,10 +945,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-18T13:28:12Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "lingui",
             "repo": "js-lingui",
-            "stars": 5883,
+            "stars": 5886,
             "topics": [
               "i18n",
               "internationalization",
@@ -1072,7 +1072,7 @@
             "open_issues": 1334,
             "owner": "iamkun",
             "repo": "dayjs",
-            "stars": 48667,
+            "stars": 48666,
             "topics": [
               "date",
               "date-formatting",
@@ -1097,7 +1097,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-08-30T01:05:02Z",
-            "open_issues": 1016,
+            "open_issues": 1017,
             "owner": "date-fns",
             "repo": "date-fns",
             "stars": 36644,
@@ -1155,7 +1155,7 @@
             "open_issues": 9,
             "owner": "hustcc",
             "repo": "timeago.js",
-            "stars": 5369,
+            "stars": 5368,
             "topics": [
               "date-format",
               "datetime",
@@ -1415,8 +1415,8 @@
             "id": 663456281,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T13:24:34Z",
-            "open_issues": 184,
+            "last_commit": "2026-09-20T16:12:12Z",
+            "open_issues": 185,
             "owner": "open-circle",
             "repo": "valibot",
             "stars": 9015,
@@ -1572,7 +1572,7 @@
             "open_issues": 0,
             "owner": "ai",
             "repo": "nanoid",
-            "stars": 26976,
+            "stars": 26978,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
@@ -2202,7 +2202,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T20:51:18.436Z",
+    "last_updated": "2026-09-20T20:56:34.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet",
