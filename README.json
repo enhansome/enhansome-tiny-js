@@ -19,7 +19,7 @@
             "open_issues": 39,
             "owner": "preactjs",
             "repo": "preact",
-            "stars": 38881,
+            "stars": 38883,
             "topics": [
               "components",
               "dom",
@@ -48,7 +48,7 @@
             "open_issues": 15,
             "owner": "hyperapp",
             "repo": "hyperapp",
-            "stars": 19194,
+            "stars": 19193,
             "topics": [
               "framework",
               "javascript",
@@ -129,6 +129,35 @@
         },
         {
           "node_type": "item",
+          "title": "arrowjs",
+          "description": "Tagged templates + reactive data,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution.",
+            "homepage": "https://arrow-js.com",
+            "id": 563574422,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-07-01T16:52:04Z",
+            "open_issues": 7,
+            "owner": "standardagents",
+            "repo": "arrow-js",
+            "stars": 3764,
+            "topics": [
+              "declarative",
+              "reactive",
+              "rendering",
+              "ui",
+              "ux",
+              "web",
+              "webcomponents"
+            ]
+          },
+          "first_seen": "2026-08-29T01:48:10.109Z"
+        },
+        {
+          "node_type": "item",
           "title": "fre",
           "description": "React-like library with hooks and concurrency,",
           "children": [],
@@ -157,35 +186,6 @@
               "reconciliation-algorithm",
               "vdom",
               "vdom-library"
-            ]
-          },
-          "first_seen": "2026-08-29T01:48:10.109Z"
-        },
-        {
-          "node_type": "item",
-          "title": "arrowjs",
-          "description": "Tagged templates + reactive data,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution.",
-            "homepage": "https://arrow-js.com",
-            "id": 563574422,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-07-01T16:52:04Z",
-            "open_issues": 7,
-            "owner": "standardagents",
-            "repo": "arrow-js",
-            "stars": 3762,
-            "topics": [
-              "declarative",
-              "reactive",
-              "rendering",
-              "ui",
-              "ux",
-              "web",
-              "webcomponents"
             ]
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
@@ -259,7 +259,7 @@
             "open_issues": 27,
             "owner": "developit",
             "repo": "mitt",
-            "stars": 11909,
+            "stars": 11906,
             "topics": [
               "event",
               "event-bus",
@@ -338,11 +338,11 @@
             "id": 180328715,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T18:43:27Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-22T23:21:05Z",
+            "open_issues": 7,
             "owner": "pmndrs",
             "repo": "zustand",
-            "stars": 58726,
+            "stars": 58731,
             "topics": [
               "hacktoberfest",
               "hooks",
@@ -367,11 +367,11 @@
             "id": 304120355,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T14:43:37Z",
+            "last_commit": "2026-09-23T14:48:38Z",
             "open_issues": 24,
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7614,
+            "stars": 7613,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
@@ -676,7 +676,7 @@
             "open_issues": 23,
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7896,
+            "stars": 7897,
             "topics": [
               "hacktoberfest",
               "microlibrary",
@@ -829,7 +829,7 @@
             "open_issues": 12,
             "owner": "elbywan",
             "repo": "wretch",
-            "stars": 5176,
+            "stars": 5177,
             "topics": [
               "ajax",
               "fetch",
@@ -944,11 +944,11 @@
             "id": 79252808,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T13:54:07Z",
-            "open_issues": 64,
+            "last_commit": "2026-09-23T14:48:17Z",
+            "open_issues": 62,
             "owner": "lingui",
             "repo": "js-lingui",
-            "stars": 5890,
+            "stars": 5891,
             "topics": [
               "i18n",
               "internationalization",
@@ -1072,7 +1072,7 @@
             "open_issues": 1335,
             "owner": "iamkun",
             "repo": "dayjs",
-            "stars": 48667,
+            "stars": 48666,
             "topics": [
               "date",
               "date-formatting",
@@ -1100,7 +1100,7 @@
             "open_issues": 1017,
             "owner": "date-fns",
             "repo": "date-fns",
-            "stars": 36645,
+            "stars": 36646,
             "topics": [
               "date",
               "date-fns",
@@ -1205,8 +1205,8 @@
             "id": 89977123,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2024-01-20T17:52:53Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-22T23:43:14Z",
+            "open_issues": 2,
             "owner": "lukeed",
             "repo": "tinydate",
             "stars": 1067,
@@ -1258,7 +1258,7 @@
             "open_issues": 8,
             "owner": "jonschlinkert",
             "repo": "time-stamp",
-            "stars": 109,
+            "stars": 108,
             "topics": [
               "date",
               "datetime",
@@ -1415,11 +1415,11 @@
             "id": 663456281,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T16:15:22Z",
-            "open_issues": 182,
+            "last_commit": "2026-09-23T01:55:36Z",
+            "open_issues": 184,
             "owner": "open-circle",
             "repo": "valibot",
-            "stars": 9022,
+            "stars": 9021,
             "topics": [
               "bundle-size",
               "form-validation",
@@ -1572,7 +1572,7 @@
             "open_issues": 1,
             "owner": "ai",
             "repo": "nanoid",
-            "stars": 26983,
+            "stars": 26982,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
@@ -1898,7 +1898,7 @@
             "open_issues": 7,
             "owner": "kbrsh",
             "repo": "wade",
-            "stars": 2956,
+            "stars": 2955,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
@@ -2046,7 +2046,7 @@
                 "open_issues": 5,
                 "owner": "bevacqua",
                 "repo": "fuzzysearch",
-                "stars": 2740,
+                "stars": 2739,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:48:10.109Z"
@@ -2067,7 +2067,7 @@
                 "open_issues": 29,
                 "owner": "mattyork",
                 "repo": "fuzzy",
-                "stars": 835,
+                "stars": 834,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:48:10.109Z"
@@ -2202,7 +2202,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T21:30:14.406Z",
+    "last_updated": "2026-09-23T21:36:49.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet",
