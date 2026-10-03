@@ -19,7 +19,7 @@
             "open_issues": 50,
             "owner": "preactjs",
             "repo": "preact",
-            "stars": 38904,
+            "stars": 38903,
             "topics": [
               "components",
               "dom",
@@ -48,7 +48,7 @@
             "open_issues": 15,
             "owner": "hyperapp",
             "repo": "hyperapp",
-            "stars": 19193,
+            "stars": 19194,
             "topics": [
               "framework",
               "javascript",
@@ -1984,7 +1984,7 @@
         {
           "node_type": "item",
           "title": "stemmer",
-          "description": null,
+          "description": "words/stemmer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2010,7 +2010,7 @@
         {
           "node_type": "item",
           "title": "porter-stemmer",
-          "description": null,
+          "description": "jedp/porter-stemmer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2202,7 +2202,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:23:10.962Z",
+    "last_updated": "2026-10-03T05:11:45.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet",
