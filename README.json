@@ -19,7 +19,7 @@
             "open_issues": 41,
             "owner": "preactjs",
             "repo": "preact",
-            "stars": 38921,
+            "stars": 38924,
             "topics": [
               "components",
               "dom",
@@ -256,7 +256,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2024-08-14T08:58:20Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "developit",
             "repo": "mitt",
             "stars": 11907,
@@ -342,7 +342,7 @@
             "open_issues": 7,
             "owner": "pmndrs",
             "repo": "zustand",
-            "stars": 58806,
+            "stars": 58810,
             "topics": [
               "hacktoberfest",
               "hooks",
@@ -371,7 +371,7 @@
             "open_issues": 23,
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7622,
+            "stars": 7623,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
@@ -829,7 +829,7 @@
             "open_issues": 12,
             "owner": "elbywan",
             "repo": "wretch",
-            "stars": 5178,
+            "stars": 5179,
             "topics": [
               "ajax",
               "fetch",
@@ -945,10 +945,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-09T13:27:38Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "lingui",
             "repo": "js-lingui",
-            "stars": 5908,
+            "stars": 5911,
             "topics": [
               "i18n",
               "internationalization",
@@ -1069,10 +1069,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-15T11:35:36Z",
-            "open_issues": 1371,
+            "open_issues": 1372,
             "owner": "iamkun",
             "repo": "dayjs",
-            "stars": 48668,
+            "stars": 48667,
             "topics": [
               "date",
               "date-formatting",
@@ -1100,7 +1100,7 @@
             "open_issues": 1041,
             "owner": "date-fns",
             "repo": "date-fns",
-            "stars": 36647,
+            "stars": 36646,
             "topics": [
               "date",
               "date-fns",
@@ -1130,7 +1130,7 @@
             "open_issues": 39,
             "owner": "vercel",
             "repo": "ms",
-            "stars": 5558,
+            "stars": 5559,
             "topics": [
               "conversion",
               "milliseconds",
@@ -1155,7 +1155,7 @@
             "open_issues": 9,
             "owner": "hustcc",
             "repo": "timeago.js",
-            "stars": 5367,
+            "stars": 5366,
             "topics": [
               "date-format",
               "datetime",
@@ -1325,8 +1325,8 @@
             "id": 132434056,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T15:58:14Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-11T15:45:40Z",
+            "open_issues": 17,
             "owner": "remeda",
             "repo": "remeda",
             "stars": 5442,
@@ -1416,7 +1416,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-10T09:25:53Z",
-            "open_issues": 214,
+            "open_issues": 215,
             "owner": "open-circle",
             "repo": "valibot",
             "stars": 9032,
@@ -1452,7 +1452,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2024-10-01T02:42:53Z",
-            "open_issues": 104,
+            "open_issues": 107,
             "owner": "ianstormtaylor",
             "repo": "superstruct",
             "stars": 7129,
@@ -1572,7 +1572,7 @@
             "open_issues": 2,
             "owner": "ai",
             "repo": "nanoid",
-            "stars": 27095,
+            "stars": 27097,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
@@ -1683,7 +1683,7 @@
             "open_issues": 27,
             "owner": "omgovich",
             "repo": "colord",
-            "stars": 1892,
+            "stars": 1893,
             "topics": [
               "a11y",
               "color",
@@ -2202,7 +2202,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T21:53:39.579Z",
+    "last_updated": "2026-10-11T22:09:40.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet",
