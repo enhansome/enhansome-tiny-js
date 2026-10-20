@@ -15,11 +15,11 @@
             "id": 42283287,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T15:13:05Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-20T17:17:15Z",
+            "open_issues": 41,
             "owner": "preactjs",
             "repo": "preact",
-            "stars": 38941,
+            "stars": 38943,
             "topics": [
               "components",
               "dom",
@@ -74,7 +74,7 @@
             "open_issues": 9,
             "owner": "redom",
             "repo": "redom",
-            "stars": 3434,
+            "stars": 3433,
             "topics": [
               "dom",
               "html5",
@@ -102,7 +102,7 @@
             "open_issues": 40,
             "owner": "vanjs-org",
             "repo": "van",
-            "stars": 4442,
+            "stars": 4443,
             "topics": [
               "data-binding",
               "dom",
@@ -259,7 +259,7 @@
             "open_issues": 28,
             "owner": "developit",
             "repo": "mitt",
-            "stars": 11909,
+            "stars": 11907,
             "topics": [
               "event",
               "event-bus",
@@ -342,7 +342,7 @@
             "open_issues": 8,
             "owner": "pmndrs",
             "repo": "zustand",
-            "stars": 58835,
+            "stars": 58845,
             "topics": [
               "hacktoberfest",
               "hooks",
@@ -371,7 +371,7 @@
             "open_issues": 23,
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7630,
+            "stars": 7629,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
@@ -508,7 +508,7 @@
                 "open_issues": 50,
                 "owner": "preactjs",
                 "repo": "signals",
-                "stars": 4499,
+                "stars": 4501,
                 "topics": [
                   "preact",
                   "react",
@@ -913,7 +913,7 @@
             "open_issues": 30,
             "owner": "developit",
             "repo": "unfetch",
-            "stars": 5698,
+            "stars": 5697,
             "topics": [
               "ajax",
               "fetch",
@@ -944,11 +944,11 @@
             "id": 79252808,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T15:09:57Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-20T11:11:20Z",
+            "open_issues": 56,
             "owner": "lingui",
             "repo": "js-lingui",
-            "stars": 5919,
+            "stars": 5922,
             "topics": [
               "i18n",
               "internationalization",
@@ -1069,10 +1069,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-15T11:35:36Z",
-            "open_issues": 1393,
+            "open_issues": 1394,
             "owner": "iamkun",
             "repo": "dayjs",
-            "stars": 48665,
+            "stars": 48664,
             "topics": [
               "date",
               "date-formatting",
@@ -1097,10 +1097,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-09-22T06:59:17Z",
-            "open_issues": 1065,
+            "open_issues": 1064,
             "owner": "date-fns",
             "repo": "date-fns",
-            "stars": 36647,
+            "stars": 36645,
             "topics": [
               "date",
               "date-fns",
@@ -1386,7 +1386,7 @@
             "open_issues": 8,
             "owner": "marpple",
             "repo": "FxTS",
-            "stars": 1169,
+            "stars": 1168,
             "topics": [
               "concurrency",
               "fp",
@@ -1416,7 +1416,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-17T09:19:34Z",
-            "open_issues": 226,
+            "open_issues": 227,
             "owner": "open-circle",
             "repo": "valibot",
             "stars": 9044,
@@ -1680,10 +1680,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-01T11:54:45Z",
-            "open_issues": 27,
+            "open_issues": 26,
             "owner": "omgovich",
             "repo": "colord",
-            "stars": 1893,
+            "stars": 1892,
             "topics": [
               "a11y",
               "color",
@@ -1898,7 +1898,7 @@
             "open_issues": 7,
             "owner": "kbrsh",
             "repo": "wade",
-            "stars": 2955,
+            "stars": 2956,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
@@ -2120,6 +2120,32 @@
             },
             {
               "node_type": "item",
+              "title": "fzy.js",
+              "description": "Matches one string at a time, tree-shakeable scores and match highlighting. total, or ~150 bytes for only.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A javascript port of fzy's scoring algorithm. As seen on GitHub.com!",
+                "homepage": null,
+                "id": 156036039,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2024-09-24T04:40:11Z",
+                "open_issues": 2,
+                "owner": "jhawthorn",
+                "repo": "fzy.js",
+                "stars": 164,
+                "topics": [
+                  "fuzzy",
+                  "fuzzy-search",
+                  "fuzzyfinder",
+                  "fzy"
+                ]
+              },
+              "first_seen": "2026-08-29T01:48:10.109Z"
+            },
+            {
+              "node_type": "item",
               "title": "quick-score",
               "description": "Another quicksilver-based lib, tweaked for long strings. Built-in list filtering and sorting, or 1.2 kB for single-string scoring.",
               "children": [],
@@ -2141,32 +2167,6 @@
                   "quicksilver",
                   "smart-sort",
                   "string-scoring"
-                ]
-              },
-              "first_seen": "2026-08-29T01:48:10.109Z"
-            },
-            {
-              "node_type": "item",
-              "title": "fzy.js",
-              "description": "Matches one string at a time, tree-shakeable scores and match highlighting. total, or ~150 bytes for only.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A javascript port of fzy's scoring algorithm. As seen on GitHub.com!",
-                "homepage": null,
-                "id": 156036039,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2024-09-24T04:40:11Z",
-                "open_issues": 2,
-                "owner": "jhawthorn",
-                "repo": "fzy.js",
-                "stars": 163,
-                "topics": [
-                  "fuzzy",
-                  "fuzzy-search",
-                  "fuzzyfinder",
-                  "fzy"
                 ]
               },
               "first_seen": "2026-08-29T01:48:10.109Z"
@@ -2202,7 +2202,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T22:30:17.997Z",
+    "last_updated": "2026-10-20T21:45:04.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet",
