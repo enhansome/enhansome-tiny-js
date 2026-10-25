@@ -15,11 +15,11 @@
             "id": 42283287,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T11:19:52Z",
+            "last_commit": "2026-10-25T09:37:46Z",
             "open_issues": 38,
             "owner": "preactjs",
             "repo": "preact",
-            "stars": 38951,
+            "stars": 38958,
             "topics": [
               "components",
               "dom",
@@ -102,7 +102,7 @@
             "open_issues": 40,
             "owner": "vanjs-org",
             "repo": "van",
-            "stars": 4447,
+            "stars": 4449,
             "topics": [
               "data-binding",
               "dom",
@@ -143,7 +143,7 @@
             "open_issues": 9,
             "owner": "standardagents",
             "repo": "arrow-js",
-            "stars": 3770,
+            "stars": 3771,
             "topics": [
               "declarative",
               "reactive",
@@ -259,7 +259,7 @@
             "open_issues": 28,
             "owner": "developit",
             "repo": "mitt",
-            "stars": 11903,
+            "stars": 11906,
             "topics": [
               "event",
               "event-bus",
@@ -342,7 +342,7 @@
             "open_issues": 4,
             "owner": "pmndrs",
             "repo": "zustand",
-            "stars": 58867,
+            "stars": 58872,
             "topics": [
               "hacktoberfest",
               "hooks",
@@ -371,7 +371,7 @@
             "open_issues": 24,
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7630,
+            "stars": 7634,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
@@ -676,7 +676,7 @@
             "open_issues": 23,
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7911,
+            "stars": 7912,
             "topics": [
               "hacktoberfest",
               "microlibrary",
@@ -829,7 +829,7 @@
             "open_issues": 12,
             "owner": "elbywan",
             "repo": "wretch",
-            "stars": 5178,
+            "stars": 5179,
             "topics": [
               "ajax",
               "fetch",
@@ -913,7 +913,7 @@
             "open_issues": 30,
             "owner": "developit",
             "repo": "unfetch",
-            "stars": 5696,
+            "stars": 5697,
             "topics": [
               "ajax",
               "fetch",
@@ -948,7 +948,7 @@
             "open_issues": 58,
             "owner": "lingui",
             "repo": "js-lingui",
-            "stars": 5923,
+            "stars": 5925,
             "topics": [
               "i18n",
               "internationalization",
@@ -1069,7 +1069,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-15T11:35:36Z",
-            "open_issues": 1394,
+            "open_issues": 1397,
             "owner": "iamkun",
             "repo": "dayjs",
             "stars": 48658,
@@ -1097,10 +1097,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-24T06:28:16Z",
-            "open_issues": 1073,
+            "open_issues": 1078,
             "owner": "date-fns",
             "repo": "date-fns",
-            "stars": 36650,
+            "stars": 36653,
             "topics": [
               "date",
               "date-fns",
@@ -1130,7 +1130,7 @@
             "open_issues": 41,
             "owner": "vercel",
             "repo": "ms",
-            "stars": 5560,
+            "stars": 5561,
             "topics": [
               "conversion",
               "milliseconds",
@@ -1155,7 +1155,7 @@
             "open_issues": 9,
             "owner": "hustcc",
             "repo": "timeago.js",
-            "stars": 5368,
+            "stars": 5369,
             "topics": [
               "date-format",
               "datetime",
@@ -1296,10 +1296,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-02-11T12:23:37Z",
-            "open_issues": 59,
+            "open_issues": 62,
             "owner": "angus-c",
             "repo": "just",
-            "stars": 6193,
+            "stars": 6195,
             "topics": [
               "dependency-free",
               "javascript",
@@ -1325,11 +1325,11 @@
             "id": 132434056,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T20:23:51Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-25T14:03:11Z",
+            "open_issues": 14,
             "owner": "remeda",
             "repo": "remeda",
-            "stars": 5444,
+            "stars": 5446,
             "topics": [
               "functional",
               "programming",
@@ -1416,10 +1416,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-24T09:21:01Z",
-            "open_issues": 232,
+            "open_issues": 231,
             "owner": "open-circle",
             "repo": "valibot",
-            "stars": 9046,
+            "stars": 9048,
             "topics": [
               "bundle-size",
               "form-validation",
@@ -1572,7 +1572,7 @@
             "open_issues": 3,
             "owner": "ai",
             "repo": "nanoid",
-            "stars": 27110,
+            "stars": 27113,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
@@ -1662,7 +1662,7 @@
             "open_issues": 16,
             "owner": "davidmerfield",
             "repo": "randomColor",
-            "stars": 6120,
+            "stars": 6122,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
@@ -2046,7 +2046,7 @@
                 "open_issues": 5,
                 "owner": "bevacqua",
                 "repo": "fuzzysearch",
-                "stars": 2740,
+                "stars": 2741,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:48:10.109Z"
@@ -2202,7 +2202,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T21:00:09.334Z",
+    "last_updated": "2026-10-25T21:00:08.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet",
