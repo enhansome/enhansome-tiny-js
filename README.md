@@ -37,16 +37,16 @@ Tiny front-end libraries to put your bundle on a diet. Rules:
 
 UI frameworks (libraries?) provide declarative templates, event bindings, and observable state to update the view. I've been generous and expanded the size limit for this category to 4.5 kB (if you're boring, count them as 2 libraries), but also increased the star limit to 2K.
 
-* [preact](https://github.com/preactjs/preact) ⭐ 39,003 | 🐛 37 | 🌐 JavaScript | 📅 2026-11-12 - React-like API (pre-hooks). Cool ecosystem of similarly tiny tools and components. Highly recommended. <img align="top" height="24" src="./img/preact.svg">
+* [preact](https://github.com/preactjs/preact) ⭐ 39,005 | 🐛 37 | 🌐 JavaScript | 📅 2026-11-13 - React-like API (pre-hooks). Cool ecosystem of similarly tiny tools and components. Highly recommended. <img align="top" height="24" src="./img/preact.svg">
 
 The following libraries are small and cool, but note they're about [500x less popular than preact.](https://npmtrends.com/preact-vs-hyperapp-vs-redom) Kudos for deconstrucing the very essence of a "framework":
 
-* [hyperapp](https://github.com/jorgebucaran/hyperapp) ⭐ 19,191 | 🐛 15 | 🌐 JavaScript | 📅 2025-03-20 - vDOM framework with pure JS syntax and immutable state, <img align="top" height="24" src="./img/hyperapp.svg">
-* [redom](https://github.com/redom/redom) ⭐ 3,434 | 🐛 9 | 🌐 JavaScript | 📅 2025-03-10 - Hyperapp-style templates with *imperative* event listeners and updates, <img align="top" height="24" src="./img/redom.svg">
+* [hyperapp](https://github.com/jorgebucaran/hyperapp) ⭐ 19,190 | 🐛 15 | 🌐 JavaScript | 📅 2025-03-20 - vDOM framework with pure JS syntax and immutable state, <img align="top" height="24" src="./img/hyperapp.svg">
+* [redom](https://github.com/redom/redom) ⭐ 3,433 | 🐛 9 | 🌐 JavaScript | 📅 2025-03-10 - Hyperapp-style templates with *imperative* event listeners and updates, <img align="top" height="24" src="./img/redom.svg">
 
 Now, for the [openly experimental](https://npmtrends.com/@arrow-js/core-vs-fre-vs-hyperapp-vs-redom-vs-superfine-vs-vanjs-core) UI libraries:
 
-* [van](https://github.com/vanjs-org/van) ⭐ 4,461 | 🐛 40 | 🌐 JavaScript | 📅 2026-11-01 - vDOM-based framework optimized for no-build setups, <img align="top" height="24" src="./img/vanjs-core.svg">
+* [van](https://github.com/vanjs-org/van) ⭐ 4,462 | 🐛 40 | 🌐 JavaScript | 📅 2026-11-01 - vDOM-based framework optimized for no-build setups, <img align="top" height="24" src="./img/vanjs-core.svg">
 * [arrowjs](https://github.com/justin-schroeder/arrow-js) ⭐ 3,785 | 🐛 9 | 🌐 TypeScript | 📅 2026-07-01 - Tagged templates + reactive data, <img align="top" height="24" src="./img/arrow-jscore.svg">
 * [fre](https://github.com/frejs/fre) ⭐ 3,762 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-04 - React-like library with hooks and concurrency, <img align="top" height="24" src="./img/fre.svg">
 * [superfine](https://github.com/jorgebucaran/superfine) ⭐ 1,595 | 🐛 5 | 🌐 JavaScript | 📅 2022-08-16 - Hyperapp with state & effect hooks removed, <img align="top" height="24" src="./img/superfine.svg">
@@ -60,15 +60,15 @@ And if being declarative is not your thing:
 Event emitter pattern is fairly easy to implement yourself, but why bother when you have these cool tools? With an arms race to build the smallest one, the limit is 0.5 kB.
 
 * [mitt](https://github.com/developit/mitt) ⭐ 11,906 | 🐛 29 | 🌐 TypeScript | 📅 2024-08-14 - Plain event emitter that I use on most projects, <img align="top" height="24" src="./img/mitt.svg">
-* [nanoevents](https://github.com/ai/nanoevents) ⭐ 1,636 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-22 - Nicer unsubscribe API, but no `*` event, <img align="top" height="24" src="./img/nanoevents.svg">
+* [nanoevents](https://github.com/ai/nanoevents) ⭐ 1,637 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-22 - Nicer unsubscribe API, but no `*` event, <img align="top" height="24" src="./img/nanoevents.svg">
 * [onfire.js](https://github.com/hustcc/onfire.js) ⭐ 496 | 🐛 0 | 🌐 TypeScript | 📅 2019-04-22 - Also has `.once` method, <img align="top" height="24" src="./img/onfirejs.svg">
 
 ## State Managers
 
 State managers combine observable state with actions and framework bindings, intended for app-wide state.
 
-* [zustand](https://github.com/pmndrs/zustand) ⭐ 58,931 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-06 - Simple stores with pleasant actions and selectors. Vanilla <img align="top" height="24" src="./img/zustandvanilla.svg">, React <img align="top" height="24" src="./img/zustand.svg">
-* [nanostores](https://github.com/nanostores/nanostores) ⭐ 7,659 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-15 - Modular store with good tree-shaking support, <img align="top" height="24" src="./img/nanostores.svg"> vanilla, + React <img align="top" height="24" src="./img/nanostoresreact.svg"> extra. Supports all the top frameworks.
+* [zustand](https://github.com/pmndrs/zustand) ⭐ 58,918 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-06 - Simple stores with pleasant actions and selectors. Vanilla <img align="top" height="24" src="./img/zustandvanilla.svg">, React <img align="top" height="24" src="./img/zustand.svg">
+* [nanostores](https://github.com/nanostores/nanostores) ⭐ 7,649 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-15 - Modular store with good tree-shaking support, <img align="top" height="24" src="./img/nanostores.svg"> vanilla, + React <img align="top" height="24" src="./img/nanostoresreact.svg"> extra. Supports all the top frameworks.
 * [unistore](https://github.com/developit/unistore) ⭐ 2,839 | 🐛 46 | 🌐 JavaScript | 📅 2021-06-07 - Centralized store with actions, <img align="top" height="24" src="./img/unistore.svg"> + React <img align="top" height="24" src="./img/unistorereact.svg">
 * [storeon](https://github.com/storeon/storeon) ⭐ 1,975 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-13 - Minimal redux-styled store with lots of framework connectors, <img align="top" height="24" src="./img/storeon.svg">. React extra <img align="top" height="24" src="./img/storeonreact.svg"> + Vue, Svelte, Angular.
 * [teaful](https://github.com/teafuljs/teaful) ⭐ 714 | 🐛 18 | 🌐 TypeScript | 📅 2026-04-09 - Store with useState-like API, <img align="top" height="24" src="./img/teaful.svg">, including React / preact connector.
@@ -122,7 +122,7 @@ If for some reason you still need a fetch polyfill, try this one:
 
 A map of strings might seem enough to translate an app, but these tools also handle interpolation and some extra goodies:
 
-* [lingui](https://github.com/lingui/js-lingui) ⭐ 5,937 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-10 - Small core with template strings, <img align="top" height="24" src="./img/linguicore.svg">
+* [lingui](https://github.com/lingui/js-lingui) ⭐ 5,937 | 🐛 49 | 🌐 TypeScript | 📅 2026-11-10 - Small core with template strings, <img align="top" height="24" src="./img/linguicore.svg">
 * [rosetta](https://github.com/lukeed/rosetta) ⭐ 795 | 🐛 6 | 🌐 JavaScript | 📅 2024-01-20 - Bare-bones template strings (`{{hello}}, {{username}}`) and custom functions for everyting else, <img align="top" height="24" src="./img/rosetta.svg">
 * [eo-locale](https://github.com/ibitcy/eo-locale) ⭐ 347 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-30 - Interpolation and dates / numbers, <img align="top" height="24" src="./img/eo-localecore.svg">, or <img align="top" height="24" src="./img/eo-localereact.svg"> with react bindings.
 * [@nanostores/i18n](https://github.com/nanostores/i18n) ⭐ 307 | 🐛 6 | 🌐 TypeScript | 📅 2026-07-23 - Detect locale, load dictionaries, format dates / numbers, <img align="top" height="24" src="./img/nanostoresin.svg"> including nanostores.
@@ -131,12 +131,12 @@ A map of strings might seem enough to translate an app, but these tools also han
 
 Date and time manipulation in pure JS is verbose. Luckily, two of the top date libraries have sensible size:
 
-* [dayjs](https://github.com/iamkun/dayjs) ⭐ 48,653 | 🐛 1,454 | 🌐 JavaScript | 📅 2026-11-06 - *Almost* moment.js-compatible API, covers most use cases, <img align="top" height="24" src="./img/dayjsesm.svg">
-* [date-fns](https://github.com/date-fns/date-fns/) ⭐ 36,660 | 🐛 1,115 | 🌐 TypeScript | 📅 2026-10-26 - Not tiny as a whole, but [most functions](https://bundlephobia.com/package/date-fns) are under 1 kB each (format and parse are quite heavy).
+* [dayjs](https://github.com/iamkun/dayjs) ⭐ 48,651 | 🐛 1,457 | 🌐 JavaScript | 📅 2026-11-06 - *Almost* moment.js-compatible API, covers most use cases, <img align="top" height="24" src="./img/dayjsesm.svg">
+* [date-fns](https://github.com/date-fns/date-fns/) ⭐ 36,656 | 🐛 1,118 | 🌐 TypeScript | 📅 2026-10-26 - Not tiny as a whole, but [most functions](https://bundlephobia.com/package/date-fns) are under 1 kB each (format and parse are quite heavy).
 
 And some more packages that only do formatting:
 
-* [ms](https://github.com/vercel/ms) ⭐ 5,562 | 🐛 42 | 🌐 TypeScript | 📅 2026-05-20 - Parse & format ms durations, e.g. `"1m" <-> 60000`, <img align="top" height="24" src="./img/ms.svg">
+* [ms](https://github.com/vercel/ms) ⭐ 5,563 | 🐛 42 | 🌐 TypeScript | 📅 2026-05-20 - Parse & format ms durations, e.g. `"1m" <-> 60000`, <img align="top" height="24" src="./img/ms.svg">
 * [timeago.js](https://github.com/hustcc/timeago.js) ⭐ 5,368 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-12 - Format dates into stuff like *X minutes ago* or *in X hours,* <img align="top" height="24" src="./img/timeagojs.svg">
 * [tinytime](https://github.com/aweary/tinytime) ⭐ 1,316 | 🐛 19 | 🌐 JavaScript | 📅 2023-01-12 - Simple date / time formatter: `{h}:{mm} -> 9:33`, <img align="top" height="24" src="./img/tinytime.svg">
 * [tinydate](https://github.com/lukeed/tinydate) ⭐ 1,068 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-22 - Date / time formatter, only supports padded numeric output (`September -> 09`), <img align="top" height="24" src="./img/tinydate.svg">
@@ -150,11 +150,11 @@ Note that the built-in [`Intl.DateTimeFormat`](https://developer.mozilla.org/en-
 Something you'd find in lodash or ramda, but smaller. Most are pretty similar and very small, with minor differences in package structure (single / package-per-helper) and tree shaking vs direct helper import.
 
 * [just](https://github.com/angus-c/just) ⭐ 6,189 | 🐛 92 | 🌐 JavaScript | 📅 2024-02-11 - 82 helpers in separate packages [(list).](https://anguscroll.com/just/)
-* [remeda](https://github.com/remeda/remeda) ⭐ 5,452 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-12 - 90 tree-shakable helpers [(list).](https://bundlephobia.com/package/remeda)
+* [remeda](https://github.com/remeda/remeda) ⭐ 5,452 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-13 - 90 tree-shakable helpers [(list).](https://bundlephobia.com/package/remeda)
 * [rambda](https://github.com/selfrefactor/rambda) ⭐ 1,759 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-08 - 187 tree-shakable helpers [(list).](https://bundlephobia.com/package/rambda)
 * [@fxts/core](https://github.com/marpple/FxTS) ⭐ 1,169 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-29 - 96 tree-shakable helpers. Lazy evaluation support.
 
-Honorable mention: [underscore,](https://github.com/jashkenas/underscore) ⭐ 27,297 | 🐛 53 | 🌐 JavaScript | 📅 2026-10-15 contains many sub-1 kB helpers. It does not tree-shake as well as the libraries above due to codebase structure.
+Honorable mention: [underscore,](https://github.com/jashkenas/underscore) ⭐ 27,293 | 🐛 53 | 🌐 JavaScript | 📅 2026-10-15 contains many sub-1 kB helpers. It does not tree-shake as well as the libraries above due to codebase structure.
 
 Note: lodash itself is not tree-shakable, but has made many attempts at modulaity with `lodash.method` packages, imports from `lodash/method`, and `lodash-es`, none of which work well in practice.
 
@@ -164,7 +164,7 @@ Also note that much of the original lodash functionality comes built-in with mod
 
 To check if an object matches an expected schema, you'd often use zod, yup, joi or ajv. But 90% of the time you can get what you need in under 2 kB. *Note:* I compare a base validation subset (core + object / array + string / number / boolean) under tree-shaking to avoid punishing libs that have more features.
 
-* [valibot](https://github.com/fabian-hiller/valibot) ⭐ 9,086 | 🐛 241 | 🌐 TypeScript | 📅 2026-11-07 - Another modular validation library, <img align="top" height="24" src="./img/valibot.svg">
+* [valibot](https://github.com/fabian-hiller/valibot) ⭐ 9,068 | 🐛 242 | 🌐 TypeScript | 📅 2026-11-07 - Another modular validation library, <img align="top" height="24" src="./img/valibot.svg">
 * [superstruct](https://github.com/ianstormtaylor/superstruct) ⭐ 7,125 | 🐛 109 | 🌐 TypeScript | 📅 2024-10-01 - The most popular modular validation library with good tree-shaking, <img align="top" height="24" src="./img/superstruct.svg">
 * [v8n](https://github.com/imbrn/v8n) ⭐ 4,142 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-01 - zod-style API with fine-grained checks: `v8n().string().minLength(5).first("H").last("o")`. No tree shaking, <img align="top" height="24" src="./img/vn.svg">
 * [deep-waters](https://github.com/antonioru/deep-waters) ⭐ 200 | 🐛 16 | 🌐 JavaScript | 📅 2023-01-06 - Composable functional validators, <img align="top" height="24" src="./img/deep-waterscompose-deep-watershasShape-deep-watersarrayOf-deep-watersisString-deep-watersisNumber-deep-watersisBoolean.svg">.
@@ -174,7 +174,7 @@ To check if an object matches an expected schema, you'd often use zod, yup, joi 
 
 Unique ID generation does not take a lot of code, but it's not someting I'd want to write myself. Limit is 500 bytes. Also note that the [native `crypto.randomUUID`](https://developer.mozilla.org/en-US/docs/Web/API/Crypto/randomUUID) has [OK support.](https://caniuse.com/mdn-api_crypto_randomuuid)
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 27,131 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-05 - Random IDs with larger alphabet, <img align="top" height="24" src="./img/nanoid.svg">
+* [nanoid](https://github.com/ai/nanoid) ⭐ 27,130 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-05 - Random IDs with larger alphabet, <img align="top" height="24" src="./img/nanoid.svg">
 * [uid](https://github.com/lukeed/uid) ⭐ 665 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-27 - More of the same, <img align="top" height="24" src="./img/uid.svg">
 * [@lukeed/uuid](https://github.com/lukeed/uuid) ⭐ 410 | 🐛 5 | 🌐 JavaScript | 📅 2024-09-27 - Real UUIDs, <img align="top" height="24" src="./img/lukeeduuid.svg">
 * [hexoid](https://github.com/lukeed/hexoid) ⭐ 205 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-04 - Hexadecimal IDs, <img align="top" height="24" src="./img/hexoid.svg">
@@ -216,7 +216,7 @@ One way to find sensible inexact matches is *stemming* — converting words to a
 * [stemmer](https://github.com/words/stemmer) ⭐ 137 | 🐛 0 | 🌐 JavaScript | 📅 2022-11-02 - <img align="top" height="24" src="./img/stemmer.svg">
 * [porter-stemmer](https://github.com/jedp/porter-stemmer) ⭐ 102 | 🐛 4 | 🌐 JavaScript | 📅 2020-09-30 - <img align="top" height="24" src="./img/porter-stemmer.svg">
 
-For non-English words, I only have honorable mentions: [snowball-js](https://github.com/fortnightlabs/snowball-js) ⭐ 101 | 🐛 3 | 🌐 JavaScript | 📅 2011-03-09 is 17 kB with 15 languages, [lunr-languages](https://github.com/MihaiValentin/lunr-languages) ⭐ 460 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-06 supports 30 languages but only works with [lunr,](https://github.com/olivernn/lunr.js) ⭐ 9,201 | 🐛 130 | 🌐 JavaScript | 📅 2024-07-31 the most promising one is [natural](https://github.com/NaturalNode/natural/tree/master/lib/natural/stemmers) ⭐ 10,883 | 🐛 84 | 🌐 JavaScript | 📅 2026-10-26 but it depends on Node.js.
+For non-English words, I only have honorable mentions: [snowball-js](https://github.com/fortnightlabs/snowball-js) ⭐ 101 | 🐛 3 | 🌐 JavaScript | 📅 2011-03-09 is 17 kB with 15 languages, [lunr-languages](https://github.com/MihaiValentin/lunr-languages) ⭐ 460 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-06 supports 30 languages but only works with [lunr,](https://github.com/olivernn/lunr.js) ⭐ 9,201 | 🐛 131 | 🌐 JavaScript | 📅 2024-07-31 the most promising one is [natural](https://github.com/NaturalNode/natural/tree/master/lib/natural/stemmers) ⭐ 10,883 | 🐛 88 | 🌐 JavaScript | 📅 2026-10-26 but it depends on Node.js.
 
 ### Fuzzy search
 
@@ -231,7 +231,7 @@ For non-English words, I only have honorable mentions: [snowball-js](https://git
 
 Finally, one library is specifically built for spellchecking:
 
-* [fuzzyset](https://github.com/Glench/fuzzyset.js) ⭐ 1,378 | 🐛 1 | 🌐 JavaScript | 📅 2021-12-13 - Find misspellings, e.g. missipissi -> Missisipi, <img align="top" height="24" src="./img/fuzzyset.svg"> Commercial usage costs $42.
+* [fuzzyset](https://github.com/Glench/fuzzyset.js) ⭐ 1,379 | 🐛 1 | 🌐 JavaScript | 📅 2021-12-13 - Find misspellings, e.g. missipissi -> Missisipi, <img align="top" height="24" src="./img/fuzzyset.svg"> Commercial usage costs $42.
 
 ## Contributing
 
@@ -245,4 +245,4 @@ Collected and reviewed by [Vladimir Klepov](https://blog.thoughtspile.tech) in 2
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
