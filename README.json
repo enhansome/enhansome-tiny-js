@@ -15,11 +15,11 @@
             "id": 42283287,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T15:12:27Z",
-            "open_issues": 43,
+            "last_commit": "2026-11-21T09:52:38Z",
+            "open_issues": 42,
             "owner": "preactjs",
             "repo": "preact",
-            "stars": 39011,
+            "stars": 39014,
             "topics": [
               "components",
               "dom",
@@ -74,7 +74,7 @@
             "open_issues": 9,
             "owner": "redom",
             "repo": "redom",
-            "stars": 3431,
+            "stars": 3432,
             "topics": [
               "dom",
               "html5",
@@ -338,11 +338,11 @@
             "id": 180328715,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T13:35:06Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-21T06:25:30Z",
+            "open_issues": 5,
             "owner": "pmndrs",
             "repo": "zustand",
-            "stars": 58966,
+            "stars": 58972,
             "topics": [
               "hacktoberfest",
               "hooks",
@@ -371,7 +371,7 @@
             "open_issues": 24,
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7653,
+            "stars": 7659,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
@@ -829,7 +829,7 @@
             "open_issues": 14,
             "owner": "elbywan",
             "repo": "wretch",
-            "stars": 5178,
+            "stars": 5179,
             "topics": [
               "ajax",
               "fetch",
@@ -948,7 +948,7 @@
             "open_issues": 53,
             "owner": "lingui",
             "repo": "js-lingui",
-            "stars": 5936,
+            "stars": 5938,
             "topics": [
               "i18n",
               "internationalization",
@@ -1069,10 +1069,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-06T08:47:24Z",
-            "open_issues": 1464,
+            "open_issues": 1466,
             "owner": "iamkun",
             "repo": "dayjs",
-            "stars": 48647,
+            "stars": 48649,
             "topics": [
               "date",
               "date-formatting",
@@ -1097,7 +1097,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-26T04:11:52Z",
-            "open_issues": 1130,
+            "open_issues": 1133,
             "owner": "date-fns",
             "repo": "date-fns",
             "stars": 36658,
@@ -1127,7 +1127,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-05-20T22:24:50Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "vercel",
             "repo": "ms",
             "stars": 5566,
@@ -1299,7 +1299,7 @@
             "open_issues": 92,
             "owner": "angus-c",
             "repo": "just",
-            "stars": 6188,
+            "stars": 6187,
             "topics": [
               "dependency-free",
               "javascript",
@@ -1415,11 +1415,11 @@
             "id": 663456281,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T16:47:14Z",
-            "open_issues": 239,
+            "last_commit": "2026-11-21T09:27:54Z",
+            "open_issues": 241,
             "owner": "open-circle",
             "repo": "valibot",
-            "stars": 9081,
+            "stars": 9084,
             "topics": [
               "bundle-size",
               "form-validation",
@@ -1662,7 +1662,7 @@
             "open_issues": 16,
             "owner": "davidmerfield",
             "repo": "randomColor",
-            "stars": 6115,
+            "stars": 6116,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:10.109Z"
@@ -2205,7 +2205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:03:49.357Z",
+    "last_updated": "2026-11-21T23:29:23.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet",
